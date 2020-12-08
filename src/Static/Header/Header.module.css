@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css');
+
+.header{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.container_phone_email{
+    display: flex;
+    margin-left: 70px;
+
+}
+.contact{
+    color:white;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.phone{
+    padding-right: 30px;
+}
+
+.phone:before {
+    content: "\f095"; /* добавляем иконку дом */
+    font-family: FontAwesome;
+    font-size: 14px;
+    color: white;
+    margin-right: 22px;
+}
+
+.email:before {
+    content: "\f0e0"; /* добавляем иконку дом */
+    font-family: FontAwesome;
+    font-size: 14px;
+    color: white;
+    margin-right: 22px;
+}
+
+.social_networks{
+    display: flex;
+}
+
+.facebook:before {
+    content: "\f09a"; /* добавляем иконку дом */
+    font-family: FontAwesome;
+    font-size: 14px;
+    color: white;
+    margin-right: 22px;
+}
