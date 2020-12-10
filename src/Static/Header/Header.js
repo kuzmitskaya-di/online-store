@@ -9,11 +9,11 @@ const Header = () =>{
             <p1 className={`${s.contact} ${s.email}`}>info@company.com</p1>
             </div>
             <div className={s.social_networks}>
-                <a className={s.facebook}></a>
-                <a className={s.twitter}></a>
-                <a className={s.instagram}></a>
-                <a className={s.linkedln}></a>
-                <a className={s.be}></a>
+                <a className={`${s.facebook} ${s.soc_net} `}></a>
+                <a className={`${s.twitter} ${s.soc_net}`}></a>
+                <a className={`${s.instagram} ${s.soc_net}`}></a>
+                <a className={`${s.linkedln} ${s.soc_net}`}></a>
+                <a className={`${s.behance} ${s.soc_net}`}></a>
             </div>
         </header>
     );
