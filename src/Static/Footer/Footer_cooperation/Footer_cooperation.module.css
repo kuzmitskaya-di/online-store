@@ -1,0 +1,17 @@
+.cooperation {
+    height: 60px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cooperation_text {
+    color: #626262;
+    font-family: Roboto;
+    font-size: 14px;
+}
+.cooperation_size {
+    width: 1200px;
+}

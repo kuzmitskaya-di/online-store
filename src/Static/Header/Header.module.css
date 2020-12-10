@@ -21,6 +21,7 @@
 
 .phone{
     padding-right: 30px;
+    border-right: 1px solid #464646;
 }
 
 .phone:before {
