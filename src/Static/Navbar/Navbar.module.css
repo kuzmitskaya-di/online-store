@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.navbar{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    justify-content: space-between;
+}
+
+.logo{
+    margin-left: 70px;
+}
+
+.navbar_logo{
+    font-size: 24px;
+    font-family: Poppins;
+}
+.navbar_logo_green{
+    font-weight: bolder;
+    color: #3cb878;
+}
+
+.menu{
+    display: flex;
+}
+.menu_link{
+    text-decoration: none;
+    margin: 50px;
+    font-family: Poppins;
+    color:black;
+    font-size: 16px;
+}
+.menu_link:hover {
+    color:#3cb878;
+}
+.menu_link_green{
+    color:#3cb878;
+}
+.menu_link_green:hover{
+    color:black;
+}
+.navigation_button{
+    display: flex;
+    margin-right: 70px;
+}
+.basket:before{
+    content: "\f07a";
+    font-family: FontAwesome;
+}
+.search:before{
+    content: "\f002";
+    font-family: FontAwesome;
+}
+.burger_menu:before{
+    content: "\f0c9";
+    font-family: FontAwesome;
+}
+.nav_but{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+}

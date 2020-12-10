@@ -24,7 +24,7 @@
 }
 
 .phone:before {
-    content: "\f095"; /* добавляем иконку дом */
+    content: "\f095";
     font-family: FontAwesome;
     font-size: 14px;
     color: white;
@@ -32,7 +32,7 @@
 }
 
 .email:before {
-    content: "\f0e0"; /* добавляем иконку дом */
+    content: "\f0e0";
     font-family: FontAwesome;
     font-size: 14px;
     color: white;
@@ -64,4 +64,5 @@
 }
 .behance:before {
     content: "\f1b4";
+    margin-right: 0;
 }
