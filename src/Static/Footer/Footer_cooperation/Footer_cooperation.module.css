@@ -14,4 +14,45 @@
 }
 .cooperation_size {
     width: 1200px;
+    display: flex;
+    justify-content: space-between;
 }
+
+.img_payment {
+    display: flex;
+}
+
+.img_payment_container {
+    height: 30px;
+    width: 45px;
+    background-color: #616161;
+    margin-right: 15px;
+    border-radius: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.visa {
+    height: 11px;
+    width: 40px;
+}
+
+.paypal {
+    height: 11px;
+    width: 34px;
+}
+.amazon {
+    height: 13px;
+    width: 35px;
+}
+.maestro{
+    height: 24px;
+    width: 35px;
+}
+
+.amex{
+    height: 100%;
+    width: 80px;
+}
+

@@ -17,6 +17,7 @@ const Navbar = () =>{
             </div>
             <nav className={s.navigation_button}>
                 <a href="#" className={`${s.nav_but} ${s.basket}`}></a>
+                <div className={s.circle}>3</div>
                 <a href="#" className={`${s.nav_but} ${s.search}`}></a>
                 <a href="#" className={`${s.nav_but} ${s.burger_menu}`}></a>
             </nav>
