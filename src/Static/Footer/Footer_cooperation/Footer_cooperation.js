@@ -3,7 +3,7 @@ import s from './Footer_cooperation.module.css';
 import visa from './img/Visa_Inc._logo.svg'
 import paypal from './img/PayPal.svg'
 import amazon from './img/Amazon_logo.svg'
-import maestro from './img/Maestro_2016.svg'
+import maestro from './img/maestro.svg'
 import amex from './img/amex-svgrepo-com.svg'
 
 
