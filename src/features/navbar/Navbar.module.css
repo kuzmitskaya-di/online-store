@@ -51,15 +51,25 @@
     margin-right: 70px;
     position: relative;
 }
+.shopping_card_button{
+    position: relative;
+}
 
 .basket:before {
     content: "\f07a";
     font-family: FontAwesome;
 }
 
-.nav_but:hover:before {
+
+
+.shopping_card_button:hover .circle {
+   background-color: black;
+}
+.shopping_card_button:hover .nav_but:before {
     color: #3cb878;
 }
+
+
 
 .search:before {
     content: "\f002";
@@ -75,28 +85,26 @@
     text-decoration: none;
     color: black;
     margin-left: 30px;
-
+    border: none;
+    outline: none;
+    background-color: white;
+    cursor: pointer;
 }
 
 
 .circle {
     background-color: #3cb878;
     position: absolute;
-    left: 40px;
-    bottom: 5px;
+    left: 45px;
+    bottom: 8px;
     border-radius: 100%;
-    height: 20px;
-    width: 20px;
+    height: 14px;
+    width: 14px;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    font-size: 14px;
+    font-size:9px;
     color: white;
     font-family: Poppins;
 }
-
-.circle:hover {
-    background-color: black;
-}
-

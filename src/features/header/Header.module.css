@@ -52,7 +52,6 @@
     font-size: 14px;
     color: white;
     margin-right: 22px;
-    cursor: pointer;
 }
 
 .soc_net {
@@ -65,6 +64,7 @@
 
 .facebook:before {
     content: "\f09a";
+    font-family: FontAwesome;
 }
 
 .twitter:before {

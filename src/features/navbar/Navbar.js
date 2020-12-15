@@ -16,10 +16,12 @@ const Navbar = () => {
                 <a href="#" className={s.menu_link}>ACCESSORIES</a>
             </div>
             <div className={s.navigation_button}>
-                <a href="#" className={`${s.nav_but} ${s.basket}`}></a>
+                <div className={s.shopping_card_button}>
+                <button href="#" className={`${s.nav_but} ${s.basket}`}></button>
                 <div className={s.circle}>3</div>
-                <a href="#" className={`${s.nav_but} ${s.search}`}></a>
-                <a href="#" className={`${s.nav_but} ${s.burger_menu}`}></a>
+                </div>
+                <button href="#" className={`${s.nav_but} ${s.search}`}></button>
+                <button href="#" className={`${s.nav_but} ${s.burger_menu}`}></button>
             </div>
         </nav>
     );
