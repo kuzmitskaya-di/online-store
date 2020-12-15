@@ -1,0 +1,44 @@
+.footer_social_networks_icon {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    border-left: 1px solid #eeeeee;
+}
+
+.facebook:before {
+    margin-left: 34px;
+    content: "\f09a";
+}
+
+.twitter:before {
+    content: "\f099";
+}
+
+.instagram:before {
+    content: "\f16d";
+}
+
+.linkedln:before {
+    content: "\f0e1";
+}
+
+.behance:before {
+    content: "\f1b4";
+    margin-right: 34px;
+}
+
+.soc_net:before {
+    font-family: FontAwesome;
+    font-size: 16px;
+    color: #333333;
+    margin-left: 50px;
+}
+
+.soc_net {
+    text-decoration: none;
+}
+
+.soc_net:hover:before {
+    color: #3cb878;
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.information {
+    display: flex;
+    flex-direction: column;
+    margin-top: 46px;
+    color: #333333;
+
+}
+
+.info {
+    margin-bottom: 42px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.info_link {
+    font-family: Roboto;
+    font-size: 14px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #333333;
+}
+
+.info_link:hover {
+    color: #3cb878;
+}

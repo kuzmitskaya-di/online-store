@@ -1,0 +1,56 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css');
+
+
+.information {
+    display: flex;
+    flex-direction: column;
+    margin-top: 46px;
+    color: #333333;
+    margin-right: 108px;
+}
+
+.info {
+    margin-bottom: 42px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.info_link {
+    font-family: Roboto;
+    font-size: 14px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #333333;
+}
+
+.info_link:hover {
+    color: #3cb878;
+}
+
+.address:before {
+    font-family: FontAwesome;
+    content: "\f0ac";
+    margin-right: 8px;
+}
+
+.phone:before {
+    font-family: FontAwesome;
+    content: "\f095";
+    margin-right: 8px;
+}
+
+.mail:before {
+    font-family: FontAwesome;
+    content: "\f0e0";
+    margin-right: 8px;
+    color: #333333;
+}
+
+.mail {
+    color: #3cb878;
+}
+
+.mail:hover {
+    color: #333333;
+}
