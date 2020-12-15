@@ -40,6 +40,7 @@
     font-size: 14px;
     color: white;
     margin-right: 22px;
+    margin-left: 42px;
 }
 
 .social_networks {
@@ -51,11 +52,11 @@
     font-family: FontAwesome;
     font-size: 14px;
     color: white;
-    margin-right: 22px;
 }
 
 .soc_net {
     text-decoration: none;
+    margin-right: 22px;
 }
 
 .soc_net:hover:before {
@@ -81,5 +82,8 @@
 
 .behance:before {
     content: "\f1b4";
+}
+
+.behance{
     margin-right: 0;
 }

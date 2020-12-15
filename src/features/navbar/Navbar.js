@@ -17,8 +17,10 @@ const Navbar = () => {
             </div>
             <div className={s.navigation_button}>
                 <div className={s.shopping_card_button}>
-                <button href="#" className={`${s.nav_but} ${s.basket}`}></button>
-                <div className={s.circle}>3</div>
+                    <div className={s.quantity}>
+                    <button href="#" className={`${s.nav_but} ${s.basket}`}></button>
+                        <div className={s.circle}>3</div>
+                    </div>
                 </div>
                 <button href="#" className={`${s.nav_but} ${s.search}`}></button>
                 <button href="#" className={`${s.nav_but} ${s.burger_menu}`}></button>

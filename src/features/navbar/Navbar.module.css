@@ -51,34 +51,47 @@
     margin-right: 70px;
     position: relative;
 }
-.shopping_card_button{
+
+.shopping_card_button {
     position: relative;
 }
 
 .basket:before {
     content: "\f07a";
     font-family: FontAwesome;
+    font-size: 14px;
 }
 
 
-
-.shopping_card_button:hover .circle {
-   background-color: black;
-}
-.shopping_card_button:hover .nav_but:before {
+.shopping_card_button .nav_but:hover:before {
     color: #3cb878;
 }
+
+.shopping_card_button:hover .circle {
+    background-color: black;
+}
+
 
 
 
 .search:before {
     content: "\f002";
     font-family: FontAwesome;
+    font-size: 14px;
+}
+
+.search:hover:before {
+    color: #3cb878;
 }
 
 .burger_menu:before {
     content: "\f0c9";
+    font-size: 14px;
     font-family: FontAwesome;
+}
+
+.burger_menu:hover:before {
+    color: #3cb878;
 }
 
 .nav_but {
@@ -90,12 +103,15 @@
     background-color: white;
     cursor: pointer;
 }
+.basket {
+    margin-left: 0px;
+}
 
 
 .circle {
     background-color: #3cb878;
     position: absolute;
-    left: 45px;
+    left: 15px;
     bottom: 8px;
     border-radius: 100%;
     height: 14px;
@@ -104,7 +120,7 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    font-size:9px;
+    font-size: 9px;
     color: white;
     font-family: Poppins;
 }

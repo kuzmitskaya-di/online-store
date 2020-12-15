@@ -6,8 +6,11 @@
 }
 
 .facebook:before {
-    margin-left: 34px;
     content: "\f09a";
+}
+
+.facebook {
+    margin-left: 34px;
 }
 
 .twitter:before {
@@ -24,6 +27,9 @@
 
 .behance:before {
     content: "\f1b4";
+}
+
+.behance {
     margin-right: 34px;
 }
 
@@ -31,6 +37,9 @@
     font-family: FontAwesome;
     font-size: 16px;
     color: #333333;
+}
+
+.soc_net {
     margin-left: 50px;
 }
 

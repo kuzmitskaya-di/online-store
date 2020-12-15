@@ -47,6 +47,11 @@
     color: #333333;
 }
 
+.mail:hover:before {
+    color: #3cb878;
+}
+
+
 .mail {
     color: #3cb878;
 }
