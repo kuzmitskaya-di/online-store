@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/online-store/static/css/main.b5b8b7d6.chunk.css",
-    "main.js": "/online-store/static/js/main.13cb9e24.chunk.js",
-    "main.js.map": "/online-store/static/js/main.13cb9e24.chunk.js.map",
+    "main.css": "/online-store/static/css/main.3946c88b.chunk.css",
+    "main.js": "/online-store/static/js/main.bddeb90c.chunk.js",
+    "main.js.map": "/online-store/static/js/main.bddeb90c.chunk.js.map",
     "runtime-main.js": "/online-store/static/js/runtime-main.9d43c2a2.js",
     "runtime-main.js.map": "/online-store/static/js/runtime-main.9d43c2a2.js.map",
     "static/js/2.21e076a5.chunk.js": "/online-store/static/js/2.21e076a5.chunk.js",
@@ -10,18 +10,18 @@
     "static/js/3.5c3414aa.chunk.js": "/online-store/static/js/3.5c3414aa.chunk.js",
     "static/js/3.5c3414aa.chunk.js.map": "/online-store/static/js/3.5c3414aa.chunk.js.map",
     "index.html": "/online-store/index.html",
-    "static/css/main.b5b8b7d6.chunk.css.map": "/online-store/static/css/main.b5b8b7d6.chunk.css.map",
+    "static/css/main.3946c88b.chunk.css.map": "/online-store/static/css/main.3946c88b.chunk.css.map",
     "static/js/2.21e076a5.chunk.js.LICENSE.txt": "/online-store/static/js/2.21e076a5.chunk.js.LICENSE.txt",
-    "static/media/Amazon_logo.f88d7386.svg": "/online-store/static/media/Amazon_logo.f88d7386.svg",
-    "static/media/Maestro_2016.80ef5719.svg": "/online-store/static/media/Maestro_2016.80ef5719.svg",
-    "static/media/PayPal.bff48a2c.svg": "/online-store/static/media/PayPal.bff48a2c.svg",
-    "static/media/Visa_Inc._logo.1fae40ca.svg": "/online-store/static/media/Visa_Inc._logo.1fae40ca.svg",
-    "static/media/amex-svgrepo-com.ab2cb4c2.svg": "/online-store/static/media/amex-svgrepo-com.ab2cb4c2.svg"
+    "static/media/Amazon_logo.5e159ddc.svg": "/online-store/static/media/Amazon_logo.5e159ddc.svg",
+    "static/media/PayPal.e3f4e98f.svg": "/online-store/static/media/PayPal.e3f4e98f.svg",
+    "static/media/Visa_Inc._logo.22713270.svg": "/online-store/static/media/Visa_Inc._logo.22713270.svg",
+    "static/media/amex-svgrepo-com.09877bd5.svg": "/online-store/static/media/amex-svgrepo-com.09877bd5.svg",
+    "static/media/maestro.d10a6769.svg": "/online-store/static/media/maestro.d10a6769.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9d43c2a2.js",
     "static/js/2.21e076a5.chunk.js",
-    "static/css/main.b5b8b7d6.chunk.css",
-    "static/js/main.13cb9e24.chunk.js"
+    "static/css/main.3946c88b.chunk.css",
+    "static/js/main.bddeb90c.chunk.js"
   ]
 }
