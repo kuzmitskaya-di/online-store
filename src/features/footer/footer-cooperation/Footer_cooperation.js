@@ -1,10 +1,10 @@
 import React from 'react';
 import s from './Footer_cooperation.module.css';
-import visa_img from './img/Visa_Inc._logo.svg'
-import paypal_img from './img/PayPal.svg'
-import amazon_img from './img/Amazon_logo.svg'
-import maestro_img from './img/maestro.svg'
-import amex_img from './img/amex-svgrepo-com.svg'
+import visa_img from '../../../static/img/Visa_Inc._logo.svg'
+import paypal_img from '../../../static/img/PayPal.svg'
+import amazon_img from '../../../static/img/Amazon_logo.svg'
+import maestro_img from '../../../static/img/maestro.svg'
+import amex_img from '../../../static/img/amex-svgrepo-com.svg'
 
 const {cooperation, cooperation_size, cooperation_text, img_payment, img_payment_container, visa,
     paypal, amazon, maestro, amex} = s;
