@@ -1,34 +1,36 @@
 import React from 'react';
 import s from './Footer_cooperation.module.css';
-import visa from './img/Visa_Inc._logo.svg'
-import paypal from './img/PayPal.svg'
-import amazon from './img/Amazon_logo.svg'
-import maestro from './img/maestro.svg'
-import amex from './img/amex-svgrepo-com.svg'
+import visa_img from './img/Visa_Inc._logo.svg'
+import paypal_img from './img/PayPal.svg'
+import amazon_img from './img/Amazon_logo.svg'
+import maestro_img from './img/maestro.svg'
+import amex_img from './img/amex-svgrepo-com.svg'
 
+const {cooperation, cooperation_size, cooperation_text, img_payment, img_payment_container, visa,
+    paypal, amazon, maestro, amex} = s;
 
 const Footer_cooperation = () => {
     return (
-        <div className={s.cooperation}>
-            <div className={s.cooperation_size}>
-                <div className={s.cooperation_text}>
+        <div className={cooperation}>
+            <div className={cooperation_size}>
+                <div className={cooperation_text}>
                     Copyright 2017 RenoshopBee all right reserved - Design by BeeStudios
                 </div>
-                <div className={s.img_payment}>
-                    <div className={s.img_payment_container}>
-                        <img src={visa} alt='Visa' className={s.visa}/>
+                <div className={img_payment}>
+                    <div className={img_payment_container}>
+                        <img src={visa_img} alt='Visa' className={visa}/>
                     </div>
-                    <div className={s.img_payment_container}>
-                        <img src={paypal} alt='PayPal' className={s.paypal}/>
+                    <div className={img_payment_container}>
+                        <img src={paypal_img} alt='PayPal' className={paypal}/>
                     </div>
-                    <div className={s.img_payment_container}>
-                        <img src={amazon} alt='Amazon' className={s.amazon}/>
+                    <div className={img_payment_container}>
+                        <img src={amazon_img} alt='Amazon' className={amazon}/>
                     </div>
-                    <div className={s.img_payment_container}>
-                        <img src={maestro} alt='Maestro' className={s.maestro}/>
+                    <div className={img_payment_container}>
+                        <img src={maestro_img} alt='Maestro' className={maestro}/>
                     </div>
-                    <div className={s.img_payment_container}>
-                        <img src={amex} alt='Amex' className={s.amex}/>
+                    <div className={img_payment_container}>
+                        <img src={amex_img} alt='Amex' className={amex}/>
                     </div>
                 </div>
 

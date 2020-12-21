@@ -1,29 +1,32 @@
 import React from 'react';
 import s from './Navbar.module.css';
 
+const {navbar, logo, navbar_logo, navbar_logo_green, menu, menu_link, menu_link_green, navigation_button, shopping_card_button,
+    quantity, nav_but, basket, circle, search, burger_menu} = s;
+
 const Navbar = () => {
     return (
-        <nav className={s.navbar}>
-            <div className={s.logo}>
-                <span className={s.navbar_logo}><span className={s.navbar_logo_green}>RENOSHOP</span>BEE</span>
+        <nav className={navbar}>
+            <div className={logo}>
+                <span className={navbar_logo}><span className={navbar_logo_green}>RENOSHOP</span>BEE</span>
             </div>
-            <div className={s.menu}>
-                <a href="#" className={`${s.menu_link} ${s.menu_link_green}`}>HOME</a>
-                <a href="#" className={s.menu_link}>WOMEN</a>
-                <a href="#" className={s.menu_link}>MEN</a>
-                <a href="#" className={s.menu_link}>KIDS</a>
-                <a href="#" className={s.menu_link}>JEWELLERY</a>
-                <a href="#" className={s.menu_link}>ACCESSORIES</a>
+            <div className={menu}>
+                <a href="#" className={`${menu_link} ${menu_link_green}`}>HOME</a>
+                <a href="#" className={menu_link}>WOMEN</a>
+                <a href="#" className={menu_link}>MEN</a>
+                <a href="#" className={menu_link}>KIDS</a>
+                <a href="#" className={menu_link}>JEWELLERY</a>
+                <a href="#" className={menu_link}>ACCESSORIES</a>
             </div>
-            <div className={s.navigation_button}>
-                <div className={s.shopping_card_button}>
-                    <div className={s.quantity}>
-                    <button href="#" className={`${s.nav_but} ${s.basket}`}></button>
-                        <div className={s.circle}>3</div>
+            <div className={navigation_button}>
+                <div className={shopping_card_button}>
+                    <div className={quantity}>
+                    <button href="#" className={`${nav_but} ${basket}`}></button>
+                        <div className={circle}>3</div>
                     </div>
                 </div>
-                <button href="#" className={`${s.nav_but} ${s.search}`}></button>
-                <button href="#" className={`${s.nav_but} ${s.burger_menu}`}></button>
+                <button href="#" className={`${nav_but} ${search}`}></button>
+                <button href="#" className={`${nav_but} ${burger_menu}`}></button>
             </div>
         </nav>
     );

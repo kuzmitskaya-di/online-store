@@ -5,9 +5,11 @@ import Myaccount from "./my-account/Myaccount";
 import Help from "./help/Help";
 import ContactInfo from "./contact-info/ContactInfo";
 
+const {footer_desc_container} = s;
+
 const Footer_desc_container = () => {
     return (
-        <div className={s.Footer_desc_container}>
+        <div className={footer_desc_container}>
             <Information/>
             <Myaccount/>
             <Help/>

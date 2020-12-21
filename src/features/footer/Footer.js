@@ -5,11 +5,13 @@ import Footer_social_networks_icon from "./soc-network/Footer_social_networks_ic
 import Footer_desc_container from "./footer-desc-container/Footer_desc_container";
 import Footer_cooperation from "./footer-cooperation/Footer_cooperation";
 
+const {footer, footer_border, footer_size} = s;
+
 const Footer = () => {
     return (
-        <footer className={s.footer}>
-            <div className={s.footer_border}>
-                <div className={s.footer_size}>
+        <footer className={footer}>
+            <div className={footer_border}>
+                <div className={footer_size}>
                     <Footer_social_networks/>
                     <Footer_social_networks_icon/>
                 </div>
