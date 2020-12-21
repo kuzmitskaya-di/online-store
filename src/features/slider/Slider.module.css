@@ -1,0 +1,30 @@
+.wrapper {
+    height: 800px;
+    background-color: #121212;
+    display: flex;
+    align-items: center;
+}
+
+.big_text {
+    font-size:60px;
+    font-family: Poppins;
+    font-weight:bolder;
+    color: #333333;
+}
+
+.big_text_green{
+    color: #3cb878;
+}
+
+
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 388px;
+}
+.description{
+    font-size:16px;
+    font-family: Poppins;
+    color: #333333;
+
+}
