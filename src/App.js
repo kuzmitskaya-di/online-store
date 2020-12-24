@@ -3,6 +3,7 @@ import Header from "./features/header/Header";
 import Navbar from "./features/navbar/Navbar";
 import Footer from "./features/footer/Footer";
 import Slider from "./features/slider/Slider";
+import BestSeller from "./features/best-seller/BestSeller";
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Navbar />
       <Slider />
+      <BestSeller />
       <Footer />
     </div>
   );
