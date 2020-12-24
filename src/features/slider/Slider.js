@@ -2,7 +2,7 @@ import React from 'react';
 import s from './Slider.module.css';
 import Button from './button/Button';
 
-const {wrapper, content, big_text, big_text_green, description} = s;
+const {wrapper, content, big_text, big_text_green, description, size} = s;
 
 const Slider = () => {
     return (
@@ -13,6 +13,7 @@ const Slider = () => {
                 <span className={description}>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</span>
                 <span className={description}>eiusmod tempor incididunt ut labore et dolore magna aliqua.</span>
                 <Button />
+                <span className={size}>1920X800</span>
             </div>
         </div>
     );

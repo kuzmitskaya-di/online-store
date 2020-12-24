@@ -6,7 +6,7 @@ const {button, button_text} = s;
 const Button = () => {
     return (
       <button className={button}>
-          <span className={button_text}>BUY NOW </span>
+          BUY NOW
       </button>
     );
 }

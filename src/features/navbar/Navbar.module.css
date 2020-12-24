@@ -49,7 +49,6 @@
 .navigation_button {
     display: flex;
     margin-right: 70px;
-    position: relative;
 }
 
 .shopping_card_button {
@@ -60,18 +59,17 @@
     content: "\f07a";
     font-family: FontAwesome;
     font-size: 14px;
+    pointer-events: none;
 }
 
 
-.shopping_card_button .nav_but:hover:before {
+.nav_but:hover:before {
     color: #3cb878;
 }
 
 .shopping_card_button:hover .circle {
     background-color: black;
 }
-
-
 
 
 .search:before {
@@ -103,6 +101,7 @@
     background-color: white;
     cursor: pointer;
 }
+
 .basket {
     margin-left: 0px;
 }
@@ -111,8 +110,8 @@
 .circle {
     background-color: #3cb878;
     position: absolute;
-    left: 15px;
-    bottom: 8px;
+    left: 13px;
+    bottom: 10px;
     border-radius: 100%;
     height: 14px;
     width: 14px;
