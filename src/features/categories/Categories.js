@@ -4,19 +4,19 @@ import sale_img from '../../static/img/sale.svg'
 import fashion_img from '../../static/img/New Fashion Styles.svg'
 import season_img from '../../static/img/Summer & Autumn.svg'
 
-const {wrapper, season, sale, new_fashion, categories} = s;
+const {wrapper, season, sale, new_fashion, categories, categ_img} = s;
 
 const Categories = () => {
     return(
         <div className={wrapper}>
             <div className={`${season} ${categories}`}>
-                <img alt=" " src={season_img} />
+                <img className={categ_img} alt=" " src={season_img} />
             </div>
             <div className={`${sale} ${categories}`}>
-                <img alt=" " src={sale_img} />
+                <img className={categ_img} alt=" " src={sale_img} />
             </div>
             <div className={`${new_fashion} ${categories}`}>
-                <img alt=" " src={fashion_img} />
+                <img className={categ_img} alt=" " src={fashion_img} />
             </div>
         </div>
     );
