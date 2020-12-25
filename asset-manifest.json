@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/online-store/static/css/main.37d121ef.chunk.css",
-    "main.js": "/online-store/static/js/main.bcae1b52.chunk.js",
-    "main.js.map": "/online-store/static/js/main.bcae1b52.chunk.js.map",
-    "runtime-main.js": "/online-store/static/js/runtime-main.188af66c.js",
-    "runtime-main.js.map": "/online-store/static/js/runtime-main.188af66c.js.map",
-    "static/js/2.9c3dc7b0.chunk.js": "/online-store/static/js/2.9c3dc7b0.chunk.js",
-    "static/js/2.9c3dc7b0.chunk.js.map": "/online-store/static/js/2.9c3dc7b0.chunk.js.map",
-    "static/js/3.8f767996.chunk.js": "/online-store/static/js/3.8f767996.chunk.js",
-    "static/js/3.8f767996.chunk.js.map": "/online-store/static/js/3.8f767996.chunk.js.map",
+    "main.css": "/online-store/static/css/main.3103e57e.chunk.css",
+    "main.js": "/online-store/static/js/main.b96bb8fe.chunk.js",
+    "main.js.map": "/online-store/static/js/main.b96bb8fe.chunk.js.map",
+    "runtime-main.js": "/online-store/static/js/runtime-main.fb2d7499.js",
+    "runtime-main.js.map": "/online-store/static/js/runtime-main.fb2d7499.js.map",
+    "static/js/2.1b70f4f8.chunk.js": "/online-store/static/js/2.1b70f4f8.chunk.js",
+    "static/js/2.1b70f4f8.chunk.js.map": "/online-store/static/js/2.1b70f4f8.chunk.js.map",
+    "static/js/3.f2deeb99.chunk.js": "/online-store/static/js/3.f2deeb99.chunk.js",
+    "static/js/3.f2deeb99.chunk.js.map": "/online-store/static/js/3.f2deeb99.chunk.js.map",
     "index.html": "/online-store/index.html",
-    "static/css/main.37d121ef.chunk.css.map": "/online-store/static/css/main.37d121ef.chunk.css.map",
-    "static/js/2.9c3dc7b0.chunk.js.LICENSE.txt": "/online-store/static/js/2.9c3dc7b0.chunk.js.LICENSE.txt",
+    "static/css/main.3103e57e.chunk.css.map": "/online-store/static/css/main.3103e57e.chunk.css.map",
+    "static/js/2.1b70f4f8.chunk.js.LICENSE.txt": "/online-store/static/js/2.1b70f4f8.chunk.js.LICENSE.txt",
     "static/media/Amazon_logo.5e159ddc.svg": "/online-store/static/media/Amazon_logo.5e159ddc.svg",
+    "static/media/New Fashion Styles.c9810e78.svg": "/online-store/static/media/New Fashion Styles.c9810e78.svg",
     "static/media/PayPal.e3f4e98f.svg": "/online-store/static/media/PayPal.e3f4e98f.svg",
+    "static/media/Summer & Autumn.5a4266c0.svg": "/online-store/static/media/Summer & Autumn.5a4266c0.svg",
     "static/media/Visa_Inc._logo.22713270.svg": "/online-store/static/media/Visa_Inc._logo.22713270.svg",
     "static/media/amex-svgrepo-com.09877bd5.svg": "/online-store/static/media/amex-svgrepo-com.09877bd5.svg",
-    "static/media/maestro.d10a6769.svg": "/online-store/static/media/maestro.d10a6769.svg"
+    "static/media/PromoCode.module.css": "/online-store/static/media/bac.d36e2937.png",
+    "static/media/maestro.d10a6769.svg": "/online-store/static/media/maestro.d10a6769.svg",
+    "static/media/sale.219f7690.svg": "/online-store/static/media/sale.219f7690.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.188af66c.js",
-    "static/js/2.9c3dc7b0.chunk.js",
-    "static/css/main.37d121ef.chunk.css",
-    "static/js/main.bcae1b52.chunk.js"
+    "static/js/runtime-main.fb2d7499.js",
+    "static/js/2.1b70f4f8.chunk.js",
+    "static/css/main.3103e57e.chunk.css",
+    "static/js/main.b96bb8fe.chunk.js"
   ]
 }
