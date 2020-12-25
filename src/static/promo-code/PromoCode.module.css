@@ -9,7 +9,7 @@
     background-image: url("../img/bac.png");
 }
 
-.wrapper_subscribe{
+.wrapper_subscribe {
     width: 960px;
     height: 300px;
     background-color: rgba(46, 51, 72, 0.9);
@@ -19,13 +19,13 @@
     flex-direction: column;
 }
 
-.title{
-    display:flex;
+.title {
+    display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.title_1{
+.title_1 {
     font-size: 30px;
     font-family: Poppins;
     color: white;
@@ -33,30 +33,61 @@
     margin-bottom: 20px;
 }
 
-.descr{
+.descr {
     font-family: Roboto;
     font-size: 14px;
-    color:white;
+    color: white;
     margin-top: 10px;
 }
 
-.descr_1{
+.descr_1 {
     font-family: Roboto;
     font-size: 14px;
-    color:white;
+    color: white;
     margin-top: 10px;
 }
 
-.input_button{
+.input_button {
     margin-top: 40px;
 }
 
-.input_email{
+.input_email {
     width: 400px;
     height: 45px;
     outline: 0;
+    margin-right: 10px;
 }
 
-input::placeholder {
-    margin-left: 26px;
+input[placeholder] {
+    padding-left: 26px;
+    font-family: Roboto;
+    font-size: 14px;
+    color: #9c9c9a;
 }
+
+.button {
+    width: 200px;
+    height: 50px;
+    background-color: #3cb878;
+    border: 0;
+    position: relative;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: white;
+
+}
+
+
+.button:active, button:focus {
+    outline: none;
+}
+.button:hover{
+    border: 3px solid #3cb878;
+    color: #3cb878;
+    background-color: white;
+    border: white;
+
+}
+

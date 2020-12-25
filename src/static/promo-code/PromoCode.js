@@ -1,7 +1,7 @@
 import React from "react";
 import s from './PromoCode.module.css';
 
-const {wrapper, wrapper_input, wrapper_subscribe, title, title_1, descr, descr_1, input_button, input_email} = s;
+const {wrapper, wrapper_input, wrapper_subscribe, title, title_1, descr, descr_1, input_button, input_email, button} = s;
 
 const PromoCode = () => {
     return (
@@ -15,7 +15,7 @@ const PromoCode = () => {
                     </div>
                     <div className={input_button}>
                         <input className={input_email} placeholder="E-mail address ..."/>
-                        <button></button>
+                        <button className={button}>GET COUPON NOW</button>
                     </div>
                 </div>
             </div>
