@@ -1,7 +1,13 @@
 import React from "react";
 import s from './PromoCode.module.css';
+import img_1 from '../img/brand-logo-4a.svg'
+import img_2 from '../img/brand-logo-1a.svg'
+import img_3 from '../img/brand-logo-2a.svg'
+import img_4 from '../img/brand-logo-3a.svg'
 
-const {wrapper, wrapper_input, wrapper_subscribe, title, title_1, descr, descr_1, input_button, input_email, button} = s;
+
+const {wrapper, wrapper_input, wrapper_subscribe, title, title_1, descr, descr_1, input_button, input_email, button,
+    clients} = s;
 
 const PromoCode = () => {
     return (
@@ -19,8 +25,11 @@ const PromoCode = () => {
                     </div>
                 </div>
             </div>
-            <div>
-
+            <div className={clients}>
+                <img src={img_1} alt=" "/>
+                <img src={img_2} alt=" "/>
+                <img src={img_3} alt=" "/>
+                <img src={img_4} alt=" "/>
             </div>
         </div>
     );
