@@ -1,0 +1,40 @@
+.wrapper {
+    width: 1920px;
+    height: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title_product{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.featured {
+    font-family: Poppins;
+    font-size: 30px;
+    color: #333333;
+}
+
+.trend {
+    font-family: "Droid Serif";
+    font-size: 14px;
+    color: #3cb878;
+}
+.products{
+    width: 1782px;
+    height: 1149px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.all_products{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

@@ -6,6 +6,7 @@ import Slider from "./features/slider/Slider";
 import BestSeller from "./features/best-seller/BestSeller";
 import StaticBlock from "./static/static-block/StaticBlock";
 import Categories from "./features/categories/Categories";
+import ProductList from "./features/product-list/ProductList";
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
             <BestSeller/>
             <StaticBlock/>
             <Categories/>
+            <ProductList/>
             <Footer/>
         </div>
     );
