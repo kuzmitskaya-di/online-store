@@ -5,6 +5,7 @@ import Footer from "./features/footer/Footer";
 import Slider from "./features/slider/Slider";
 import BestSeller from "./features/best-seller/BestSeller";
 import StaticBlock from "./static/static-block/StaticBlock";
+import Categories from "./features/categories/Categories";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
             <Slider/>
             <BestSeller/>
             <StaticBlock/>
+            <Categories/>
             <Footer/>
         </div>
     );
