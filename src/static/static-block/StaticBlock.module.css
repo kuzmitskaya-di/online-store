@@ -1,0 +1,51 @@
+.wrapper {
+    width: 1920px;
+    height: 200px;
+    background-color: #f5f6f9;
+    display: flex;
+}
+
+.static_elem{
+    width: 480px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.special_offers:before{
+    font-family: FontAwesome;
+    content: '\f219';
+    color:#464646;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.free_delivery:before{
+    font-family: FontAwesome;
+    content: '\f1d8';
+    color:#464646;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.days_return:before{
+    font-family: FontAwesome;
+    content: '\f079';
+    color:#464646;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.fastest_shipping:before{
+    font-family: FontAwesome;
+    content: '\f135';
+    color:#464646;
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+
+
