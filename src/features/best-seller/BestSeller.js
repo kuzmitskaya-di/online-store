@@ -10,10 +10,10 @@ const BestSeller = () => {
         <div className={wrapper}>
             <div className={wrapper_title}>
                 <Title/>
-                <Products/>
-                <Products/>
-                <Products/>
-                <Products />
+                <Products name="Cruise Dual Analog" size="300X450"/>
+                <Products name="Crown Summit Backpack"/>
+                <Products name="Joust Duffle Bag"/>
+                <Products name="Voyage Yoga Bag"/>
             </div>
         </div>
     );
