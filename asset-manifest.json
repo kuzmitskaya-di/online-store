@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/online-store/static/css/main.6ab3cf1c.chunk.css",
-    "main.js": "/online-store/static/js/main.eb6e2f9d.chunk.js",
-    "main.js.map": "/online-store/static/js/main.eb6e2f9d.chunk.js.map",
+    "main.css": "/online-store/static/css/main.5aa09b2f.chunk.css",
+    "main.js": "/online-store/static/js/main.662ba1df.chunk.js",
+    "main.js.map": "/online-store/static/js/main.662ba1df.chunk.js.map",
     "runtime-main.js": "/online-store/static/js/runtime-main.fb2d7499.js",
     "runtime-main.js.map": "/online-store/static/js/runtime-main.fb2d7499.js.map",
     "static/js/2.1b70f4f8.chunk.js": "/online-store/static/js/2.1b70f4f8.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.f2deeb99.chunk.js": "/online-store/static/js/3.f2deeb99.chunk.js",
     "static/js/3.f2deeb99.chunk.js.map": "/online-store/static/js/3.f2deeb99.chunk.js.map",
     "index.html": "/online-store/index.html",
-    "static/css/main.6ab3cf1c.chunk.css.map": "/online-store/static/css/main.6ab3cf1c.chunk.css.map",
+    "static/css/main.5aa09b2f.chunk.css.map": "/online-store/static/css/main.5aa09b2f.chunk.css.map",
     "static/js/2.1b70f4f8.chunk.js.LICENSE.txt": "/online-store/static/js/2.1b70f4f8.chunk.js.LICENSE.txt",
     "static/media/Amazon_logo.5e159ddc.svg": "/online-store/static/media/Amazon_logo.5e159ddc.svg",
     "static/media/New Fashion Styles.c9810e78.svg": "/online-store/static/media/New Fashion Styles.c9810e78.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.fb2d7499.js",
     "static/js/2.1b70f4f8.chunk.js",
-    "static/css/main.6ab3cf1c.chunk.css",
-    "static/js/main.eb6e2f9d.chunk.js"
+    "static/css/main.5aa09b2f.chunk.css",
+    "static/js/main.662ba1df.chunk.js"
   ]
 }
