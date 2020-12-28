@@ -8,17 +8,17 @@ const {wrapper, season, sale, new_fashion, categories, categ_img} = s;
 
 const Categories = () => {
     return(
-        <div className={wrapper}>
-            <div className={`${season} ${categories}`}>
+        <section className={wrapper}>
+            <desc className={`${season} ${categories}`}>
                 <img className={categ_img} alt=" " src={season_img} />
-            </div>
+            </desc>
             <div className={`${sale} ${categories}`}>
                 <img className={categ_img} alt=" " src={sale_img} />
             </div>
             <div className={`${new_fashion} ${categories}`}>
                 <img className={categ_img} alt=" " src={fashion_img} />
             </div>
-        </div>
+        </section>
     );
 }
 

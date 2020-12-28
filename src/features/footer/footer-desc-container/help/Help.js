@@ -5,13 +5,13 @@ const {information, info, info_link} = s;
 
 const Help = () => {
     return (
-        <div className={information}>
-            <span className={info}>HELP</span>
+        <section className={information}>
+            <desc className={info}>HELP</desc>
             <a href="#" className={info_link}>F. Q. A.</a>
             <a href="#" className={info_link}>Shipping</a>
             <a href="#" className={info_link}>Contact Us</a>
             <a href="#" className={info_link}>Privacy Policy</a>
-        </div>
+        </section>
     );
 }
 

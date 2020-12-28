@@ -11,31 +11,31 @@ const {cooperation, cooperation_size, cooperation_text, img_payment, img_payment
 
 const Footer_cooperation = () => {
     return (
-        <div className={cooperation}>
-            <div className={cooperation_size}>
-                <div className={cooperation_text}>
+        <section className={cooperation}>
+            <section className={cooperation_size}>
+                <desc className={cooperation_text}>
                     Copyright 2017 RenoshopBee all right reserved - Design by BeeStudios
-                </div>
-                <div className={img_payment}>
-                    <div className={img_payment_container}>
+                </desc>
+                <section className={img_payment}>
+                    <section className={img_payment_container}>
                         <img src={visa_img} alt='Visa' className={visa}/>
-                    </div>
-                    <div className={img_payment_container}>
+                    </section>
+                    <section className={img_payment_container}>
                         <img src={paypal_img} alt='PayPal' className={paypal}/>
-                    </div>
-                    <div className={img_payment_container}>
+                    </section>
+                    <section className={img_payment_container}>
                         <img src={amazon_img} alt='Amazon' className={amazon}/>
-                    </div>
-                    <div className={img_payment_container}>
+                    </section>
+                    <section className={img_payment_container}>
                         <img src={maestro_img} alt='Maestro' className={maestro}/>
-                    </div>
-                    <div className={img_payment_container}>
+                    </section>
+                    <section className={img_payment_container}>
                         <img src={amex_img} alt='Amex' className={amex}/>
-                    </div>
-                </div>
+                    </section>
+                </section>
 
-            </div>
-        </div>
+            </section>
+        </section>
     );
 }
 

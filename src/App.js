@@ -4,10 +4,10 @@ import Navbar from "./features/navbar/Navbar";
 import Footer from "./features/footer/Footer";
 import Slider from "./features/slider/Slider";
 import BestSeller from "./features/best-seller/BestSeller";
-import StaticBlock from "./static/static-block/StaticBlock";
+import StaticBlock from "./features/static-block/StaticBlock";
 import Categories from "./features/categories/Categories";
 import ProductList from "./features/product-list/ProductList";
-import PromoCode from "./static/promo-code/PromoCode";
+import PromoCode from "./features/promo-code/PromoCode";
 
 
 function App() {

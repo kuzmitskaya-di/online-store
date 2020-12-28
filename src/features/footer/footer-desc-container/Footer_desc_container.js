@@ -9,12 +9,12 @@ const {footer_desc_container} = s;
 
 const Footer_desc_container = () => {
     return (
-        <div className={footer_desc_container}>
+        <menu className={footer_desc_container}>
             <Information/>
             <Myaccount/>
             <Help/>
             <ContactInfo/>
-        </div>
+        </menu>
     );
 }
 

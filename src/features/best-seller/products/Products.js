@@ -6,25 +6,25 @@ const {wrapper, img_product, star, mark, price, star_null, name_product, price_p
 
 const Products = (props) => {
     return (
-        <div className={wrapper}>
-            <div className={img_product}>
+        <section className={wrapper}>
+            <section className={img_product}>
                 {props.size}
                 <div className={hover}>
                 <Hover />
                 </div>
-            </div>
-            <div className={price}>
+            </section>
+            <article className={price}>
             <span className={name_product}>{props.name}</span>
             <span className={price_product}>$250.00</span>
-            </div>
-            <div className={mark}>
-            <span className={star}></span>
-            <span className={star}></span>
-            <span className={star}></span>
-            <span className={star}></span>
-            <span className={star_null}></span>
-            </div>
-        </div>
+            </article>
+            <mail className={mark}>
+            <span className={star}/>
+            <span className={star}/>
+            <span className={star}/>
+            <span className={star}/>
+            <span className={star_null}/>
+            </mail>
+        </section>
     );
 }
 

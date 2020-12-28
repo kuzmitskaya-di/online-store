@@ -10,12 +10,12 @@ const {footer, footer_border, footer_size} = s;
 const Footer = () => {
     return (
         <footer className={footer}>
-            <div className={footer_border}>
+            <section className={footer_border}>
                 <div className={footer_size}>
                     <Footer_social_networks/>
                     <Footer_social_networks_icon/>
                 </div>
-            </div>
+            </section>
             <Footer_desc_container/>
             <Footer_cooperation/>
         </footer>

@@ -5,11 +5,11 @@ const {wrapper, addCard, to_card, to_favorites, to_update} = s;
 
 const Hover = () => {
     return (
-        <div className={wrapper}>
-            <div className={`${addCard} ${to_card}`}></div>
-            <div className={`${addCard} ${to_favorites}`}></div>
-            <div className={`${addCard} ${to_update}`}></div>
-        </div>
+        <nav className={wrapper}>
+            <li className={`${addCard} ${to_card}`}/>
+            <li className={`${addCard} ${to_favorites}`}/>
+            <li className={`${addCard} ${to_update}`}/>
+        </nav>
     );
 }
 

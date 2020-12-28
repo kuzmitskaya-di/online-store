@@ -123,3 +123,7 @@
     color: white;
     font-family: Poppins;
 }
+
+address {
+    font-style: normal
+}

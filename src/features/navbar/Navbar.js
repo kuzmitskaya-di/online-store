@@ -7,27 +7,27 @@ const {navbar, logo, navbar_logo, navbar_logo_green, menu, menu_link, menu_link_
 const Navbar = () => {
     return (
         <nav className={navbar}>
-            <div className={logo}>
+            <section className={logo}>
                 <span className={navbar_logo}><span className={navbar_logo_green}>RENOSHOP</span>BEE</span>
-            </div>
-            <div className={menu}>
+            </section>
+            <menu className={menu}>
                 <a href="#" className={`${menu_link} ${menu_link_green}`}>HOME</a>
                 <a href="#" className={menu_link}>WOMEN</a>
                 <a href="#" className={menu_link}>MEN</a>
                 <a href="#" className={menu_link}>KIDS</a>
                 <a href="#" className={menu_link}>JEWELLERY</a>
                 <a href="#" className={menu_link}>ACCESSORIES</a>
-            </div>
-            <div className={navigation_button}>
-                <div className={shopping_card_button}>
+            </menu>
+            <main className={navigation_button}>
+                <section className={shopping_card_button}>
                     <div className={quantity}>
-                    <button href="#" className={`${nav_but} ${basket}`}></button>
+                    <button className={`${nav_but} ${basket}`}/>
                         <div className={circle}>3</div>
                     </div>
-                </div>
-                <button href="#" className={`${nav_but} ${search}`}></button>
-                <button href="#" className={`${nav_but} ${burger_menu}`}></button>
-            </div>
+                </section>
+                <button className={`${nav_but} ${search}`}/>
+                <button className={`${nav_but} ${burger_menu}`}/>
+            </main>
         </nav>
     );
 }
