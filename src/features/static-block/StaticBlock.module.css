@@ -15,36 +15,28 @@
     text-align: center;
 }
 
-.special_offers:before{
-    font-family: FontAwesome;
-    content: '\f219';
-    color:#464646;
-    font-size: 35px;
-    margin-bottom: 15px;
+.img_diamond {
+    width: 40px;
+    height: 32px;
+    margin-bottom: 24px;
 }
 
-.free_delivery:before{
-    font-family: FontAwesome;
-    content: '\f1d8';
-    color:#464646;
-    font-size: 35px;
-    margin-bottom: 15px;
+.img_plane{
+    width: 35px;
+    height: 32px;
+    margin-bottom: 24px;
 }
 
-.days_return:before{
-    font-family: FontAwesome;
-    content: '\f079';
-    color:#464646;
-    font-size: 35px;
-    margin-bottom: 15px;
+.img_share{
+    width: 48px;
+    height: 26px;
+    margin-bottom: 24px;
 }
 
-.fastest_shipping:before{
-    font-family: FontAwesome;
-    content: '\f135';
-    color:#464646;
-    font-size: 35px;
-    margin-bottom: 15px;
+.img_rocket{
+    width: 32px;
+    height: 40px;
+    margin-bottom: 24px;
 }
 
 
