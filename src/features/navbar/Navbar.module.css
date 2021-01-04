@@ -15,6 +15,7 @@
 .navbar_logo {
     font-size: 24px;
     font-family: Poppins;
+    color: black;
 }
 
 .navbar_logo_green {
@@ -29,9 +30,9 @@
 .menu_link {
     text-decoration: none;
     margin: 50px;
-    font-family: Poppins;
+    font-family: Poppins medium;
     color: black;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .menu_link:hover {
