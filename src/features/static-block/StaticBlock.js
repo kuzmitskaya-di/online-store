@@ -13,19 +13,19 @@ const StaticBlock = () => {
         <section className={wrapper}>
             <article className={static_elem}>
                 <img alt=" " src={diamond} className={img_diamond}/>
-                <Static text1="Special offers" text2="Shop Big Save Big"/>
+                <Static text1="SPECIAL OFFERS" text2="Shop Big Save Big"/>
             </article>
             <div className={static_elem}>
                 <img alt=" " src={plane} className={img_plane} />
-                <Static text1="Free delivery" text2="On Orders Above $99"/>
+                <Static text1="FREE DELIVERY" text2="On Orders Above $99"/>
             </div>
             <div className={static_elem}>
                 <img alt=" " src={share} className={img_share}/>
-                <Static text1="30 Days Return" text2="Policy We Offers"/>
+                <Static text1="30 DAYS RETURN" text2="Policy We Offers"/>
             </div>
             <div className={static_elem}>
                 <img alt=" " src={rocket} className={img_rocket}/>
-                <Static text1="Fastest Shipping" text2="2 Days Express"/>
+                <Static text1="FASTEST SHIPPING" text2="2 Days Express"/>
             </div>
         </section>
 );

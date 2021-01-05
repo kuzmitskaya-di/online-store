@@ -4,4 +4,5 @@
     flex-direction: row;
     width: 1200px;
     justify-content: space-between;
+    padding: 0;
 }

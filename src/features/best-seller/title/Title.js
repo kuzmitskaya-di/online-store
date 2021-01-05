@@ -11,7 +11,8 @@ const Title = () => {
             <desc className={title_text}>
                     Lorem ipsum dolor sit amet, consectetur
                     adipisicing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua.
+                    incididunt ut labore et dolore magna
+                    <br/>aliqua.
             </desc>
         </section>
     );

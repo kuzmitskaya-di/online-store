@@ -23,6 +23,8 @@
 }
 .title_text{
     font-size: 14px;
-    font-family: Poppins medium;
+    font-family: Poppins;
     margin-top: 38px;
+    font-weight: 500;
+    color: #333333;
 }
