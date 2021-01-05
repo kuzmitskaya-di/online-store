@@ -1,3 +1,5 @@
+
+
 .wrapper {
     width: 334px;
     height: 450px;
@@ -7,16 +9,16 @@
 }
 
 .title_main{
-    font-family:Poppins medium;
+    font-family:Poppins;
     font-size: 30px;
     font-weight: bold;
     color:#333333;
 }
 
 .title_secondary{
-    font-family: Playfair Display medium ;
+    font-family: "Droid Serif italic";
+    font-style: italic;
     font-size: 14px;
-    font-weight: initial;
     color: #3cb878;
 }
 .title_text{

@@ -30,7 +30,8 @@
 .menu_link {
     text-decoration: none;
     margin: 50px;
-    font-family: Poppins medium;
+    font-family: Poppins;
+     font-weight:400;
     color: black;
     font-size: 16px;
 }

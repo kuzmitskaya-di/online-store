@@ -24,7 +24,8 @@
 }
 .description{
     font-size:16px;
-    font-family: Poppins medium;
+    font-family: Poppins;
+    font-weight: 400;
     color: #333333;
 }
 .size {
