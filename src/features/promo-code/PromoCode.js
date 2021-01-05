@@ -5,11 +5,19 @@ import img_2 from '../../static/img/brand-logo-1a.svg'
 import img_3 from '../../static/img/brand-logo-2a.svg'
 import img_4 from '../../static/img/brand-logo-3a.svg'
 
-
-const {wrapper, wrapper_input, wrapper_subscribe, title, title_first , descr, input_button, input_email, button,
-    clients} = s;
-
 const PromoCode = () => {
+    const {
+        wrapper,
+        wrapper_input,
+        wrapper_subscribe,
+        title,
+        title_first,
+        descr,
+        input_button,
+        input_email,
+        button,
+        clients
+    } = s;
     return (
         <section className={wrapper}>
             <section className={wrapper_input}>

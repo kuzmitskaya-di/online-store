@@ -1,10 +1,25 @@
 import React from 'react';
 import s from './Navbar.module.css';
 
-const {navbar, logo, navbar_logo, navbar_logo_green, menu, menu_link, menu_link_green, navigation_button, shopping_card_button,
-    quantity, nav_but, basket, circle, search, burger_menu} = s;
 
 const Navbar = () => {
+    const {
+        navbar,
+        logo,
+        navbar_logo,
+        navbar_logo_green,
+        menu,
+        menu_link,
+        menu_link_green,
+        navigation_button,
+        shopping_card_button,
+        quantity,
+        nav_but,
+        basket,
+        circle,
+        search,
+        burger_menu
+    } = s;
     return (
         <nav className={navbar}>
             <section className={logo}>
@@ -21,7 +36,7 @@ const Navbar = () => {
             <main className={navigation_button}>
                 <section className={shopping_card_button}>
                     <div className={quantity}>
-                    <button className={`${nav_but} ${basket}`}/>
+                        <button className={`${nav_but} ${basket}`}/>
                         <div className={circle}>3</div>
                     </div>
                 </section>

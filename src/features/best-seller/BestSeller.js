@@ -3,9 +3,12 @@ import s from './BestSeller.module.css';
 import Title from "./title/Title";
 import Products from "./products/Products";
 
-const {wrapper, wrapper_title} = s;
 
 const BestSeller = () => {
+    const {
+        wrapper,
+        wrapper_title
+    } = s;
     return (
         <section className={wrapper}>
             <desc className={wrapper_title}>

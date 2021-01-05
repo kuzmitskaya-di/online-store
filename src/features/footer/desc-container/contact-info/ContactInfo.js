@@ -1,9 +1,16 @@
 import React from 'react';
 import s from './ContactInfo.module.css';
 
-const {information, info, info_link, address, phone, mail} = s;
 
 const ContactInfo = () => {
+    const {
+        information,
+        info,
+        info_link,
+        address,
+        phone,
+        mail
+    } = s;
     return (
         <section className={information}>
             <desc className={info}>CONTACT INFO</desc>

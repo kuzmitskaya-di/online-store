@@ -1,12 +1,19 @@
 import React from 'react';
-import s from './Footer_social_networks_icon.module.css';
+import s from './Social_networks_icon.module.css';
 
-const {footer_social_networks_icon, facebook, soc_net, twitter, instagram, linkedln, behance} = s;
-
-const Footer_social_networks_icon = () => {
+const Social_networks_icon = () => {
+    const {
+        social_networks_icon,
+        facebook,
+        soc_net,
+        twitter,
+        instagram,
+        linkedln,
+        behance
+    } = s;
     return (
 
-        <section className={footer_social_networks_icon}>
+        <section className={social_networks_icon}>
             <a className={`${facebook} ${soc_net} `} href="#"/>
             <a className={`${twitter} ${soc_net}`} href="#"/>
             <a className={`${instagram} ${soc_net}`} href="#"/>
@@ -18,7 +25,7 @@ const Footer_social_networks_icon = () => {
     );
 }
 
-export default Footer_social_networks_icon;
+export default Social_networks_icon;
 
 
 

@@ -1,22 +1,26 @@
 import React from 'react';
 import s from './Footer.module.css';
-import Footer_social_networks from "./soc-network/Footer_social_networks";
-import Footer_social_networks_icon from "./soc-network/Footer_social_networks_icon";
-import Footer_desc_container from "./footer-desc-container/Footer_desc_container";
-import Footer_cooperation from "./footer-cooperation/Footer_cooperation";
+import Social_networks from "./soc-network/Social_networks";
+import Social_networks_icon from "./soc-network/Social_networks_icon";
+import Desc_container from "./desc-container/Desc_container";
+import Footer_cooperation from "./cooperation/Footer_cooperation";
 
-const {footer, footer_border, footer_size} = s;
 
 const Footer = () => {
+    const {
+        footer,
+        footer_border,
+        footer_size
+    } = s;
     return (
         <footer className={footer}>
             <section className={footer_border}>
                 <div className={footer_size}>
-                    <Footer_social_networks/>
-                    <Footer_social_networks_icon/>
+                    <Social_networks/>
+                    <Social_networks_icon/>
                 </div>
             </section>
-            <Footer_desc_container/>
+            <Desc_container/>
             <Footer_cooperation/>
         </footer>
     );

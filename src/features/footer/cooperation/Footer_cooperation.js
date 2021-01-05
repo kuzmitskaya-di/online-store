@@ -6,10 +6,20 @@ import amazon_img from '../../../static/img/Amazon_logo.svg'
 import maestro_img from '../../../static/img/maestro.svg'
 import amex_img from '../../../static/img/amex-svgrepo-com.svg'
 
-const {cooperation, cooperation_size, cooperation_text, img_payment, img_payment_container, visa,
-    paypal, amazon, maestro, amex} = s;
 
 const Footer_cooperation = () => {
+    const {
+        cooperation,
+        cooperation_size,
+        cooperation_text,
+        img_payment,
+        img_payment_container,
+        visa,
+        paypal,
+        amazon,
+        maestro,
+        amex
+    } = s;
     return (
         <section className={cooperation}>
             <section className={cooperation_size}>

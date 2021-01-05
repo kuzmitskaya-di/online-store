@@ -1,13 +1,15 @@
 import React from 'react';
 import s from './Button.module.css';
 
-const {button, button_text} = s;
 
 const Button = () => {
+    const {
+        button
+    } = s;
     return (
-      <button className={button}>
-          BUY NOW
-      </button>
+        <button className={button}>
+            BUY NOW
+        </button>
     );
 }
 

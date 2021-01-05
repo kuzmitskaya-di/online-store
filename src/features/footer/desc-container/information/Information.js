@@ -1,9 +1,13 @@
 import React from 'react';
 import s from './Information.module.css';
 
-const {information, info, info_link} = s;
 
 const Information = () => {
+    const {
+        information,
+        info,
+        info_link
+    } = s;
     return (
         <section className={information}>
             <desc className={info}>INFORMATION</desc>

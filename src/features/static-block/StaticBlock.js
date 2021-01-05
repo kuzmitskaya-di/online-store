@@ -6,9 +6,15 @@ import plane from "../../static/img/plane 2.svg"
 import share from "../../static/img/share.svg"
 import rocket from "../../static/img/rocket.svg"
 
-const {wrapper, img_diamond, static_elem, img_plane, img_share, img_rocket} = s;
-
 const StaticBlock = () => {
+    const {
+        wrapper,
+        img_diamond,
+        static_elem,
+        img_plane,
+        img_share,
+        img_rocket
+    } = s;
     return (
         <section className={wrapper}>
             <article className={static_elem}>
@@ -16,7 +22,7 @@ const StaticBlock = () => {
                 <Static text1="SPECIAL OFFERS" text2="Shop Big Save Big"/>
             </article>
             <div className={static_elem}>
-                <img alt=" " src={plane} className={img_plane} />
+                <img alt=" " src={plane} className={img_plane}/>
                 <Static text1="FREE DELIVERY" text2="On Orders Above $99"/>
             </div>
             <div className={static_elem}>
@@ -28,7 +34,7 @@ const StaticBlock = () => {
                 <Static text1="FASTEST SHIPPING" text2="2 Days Express"/>
             </div>
         </section>
-);
+    );
 }
 
 export default StaticBlock;

@@ -1,9 +1,13 @@
 import React from 'react';
 import s from './Help.module.css';
 
-const {information, info, info_link} = s;
 
 const Help = () => {
+    const {
+        information,
+        info,
+        info_link
+    } = s;
     return (
         <section className={information}>
             <desc className={info}>HELP</desc>

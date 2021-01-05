@@ -2,9 +2,15 @@ import React from 'react';
 import s from './ProductList.module.css';
 import Products from "../best-seller/products/Products";
 
-const {wrapper, title_product, featured, trend, products, all_products} = s;
-
 const ProductList = () => {
+    const {
+        wrapper,
+        title_product,
+        featured,
+        trend,
+        products,
+        all_products
+    } = s;
     return (
         <section className={wrapper}>
             <article className={title_product}>

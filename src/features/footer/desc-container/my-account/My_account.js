@@ -1,9 +1,13 @@
 import React from 'react';
-import s from './Myaccount.module.css';
+import s from './My_account.module.css';
 
-const {information, info, info_link} = s;
 
-const Myaccount = () => {
+const My_account = () => {
+    const {
+        information,
+        info,
+        info_link
+    } = s;
     return (
         <section className={information}>
             <desc className={info}>MY ACCOUNT</desc>
@@ -16,4 +20,4 @@ const Myaccount = () => {
     );
 }
 
-export default Myaccount;
+export default My_account;
