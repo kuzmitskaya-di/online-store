@@ -1,7 +1,7 @@
 import React from 'react';
-import s from './Social_networks.module.css';
+import s from './SocialNetworks.module.css';
 
-const Social_networks = () => {
+const SocialNetworks = () => {
     const {
         social_networks_slogan
     } = s;
@@ -11,4 +11,4 @@ const Social_networks = () => {
     );
 }
 
-export default Social_networks;
+export default SocialNetworks;

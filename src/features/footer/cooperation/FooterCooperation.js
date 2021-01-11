@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './Footer_cooperation.module.css';
+import s from './FooterCooperation.module.css';
 import visa_img from '../../../static/img/Visa_Inc._logo.svg'
 import paypal_img from '../../../static/img/PayPal.svg'
 import amazon_img from '../../../static/img/Amazon_logo.svg'
@@ -7,7 +7,7 @@ import maestro_img from '../../../static/img/maestro.svg'
 import amex_img from '../../../static/img/amex-svgrepo-com.svg'
 
 
-const Footer_cooperation = () => {
+const FooterCooperation = () => {
     const {
         cooperation,
         cooperation_size,
@@ -49,4 +49,4 @@ const Footer_cooperation = () => {
     );
 }
 
-export default Footer_cooperation;
+export default FooterCooperation;

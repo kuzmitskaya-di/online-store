@@ -1,7 +1,7 @@
 import React from 'react';
-import s from './Social_networks_icon.module.css';
+import s from './SocialNetworksIcon.module.css';
 
-const Social_networks_icon = () => {
+const SocialNetworksIcon = () => {
     const {
         social_networks_icon,
         facebook,
@@ -25,7 +25,7 @@ const Social_networks_icon = () => {
     );
 }
 
-export default Social_networks_icon;
+export default SocialNetworksIcon;
 
 
 

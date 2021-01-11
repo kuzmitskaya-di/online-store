@@ -13,15 +13,3 @@
     font-weight: bold;
 }
 
-.info_link {
-    font-family: Roboto;
-    font-size: 14px;
-    margin-bottom: 20px;
-    text-decoration: none;
-    color: #333333;
-    font-weight: 500;
-}
-
-.info_link:hover {
-    color: #3cb878;
-}

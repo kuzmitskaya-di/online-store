@@ -1,9 +1,9 @@
 import React from 'react';
 import s from './Footer.module.css';
-import Social_networks from "./soc-network/Social_networks";
-import Social_networks_icon from "./soc-network/Social_networks_icon";
-import Desc_container from "./desc-container/Desc_container";
-import Footer_cooperation from "./cooperation/Footer_cooperation";
+import SocialNetworks from "./soc-network/SocialNetworks";
+import SocialNetworksIcon from "./soc-network/SocialNetworksIcon";
+import DescContainer from "./desc-container/DescContainer";
+import FooterCooperation from "./cooperation/FooterCooperation";
 
 
 const Footer = () => {
@@ -16,12 +16,12 @@ const Footer = () => {
         <footer className={footer}>
             <section className={footer_border}>
                 <div className={footer_size}>
-                    <Social_networks/>
-                    <Social_networks_icon/>
+                    <SocialNetworks/>
+                    <SocialNetworksIcon/>
                 </div>
             </section>
-            <Desc_container/>
-            <Footer_cooperation/>
+            <DescContainer/>
+            <FooterCooperation/>
         </footer>
     );
 }
