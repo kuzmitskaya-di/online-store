@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.our_offers{
+    font-family: Poppins;
+    font-size: 18px;
+    color: #232323;
+    font-weight: 600;
+}
+
+.our_offers_descr{
+    font-family: "Droid Serif";
+    font-size: 13px;
+    color: #99999a;
+}
+

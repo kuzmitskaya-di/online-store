@@ -1,0 +1,30 @@
+
+
+.wrapper {
+    width: 334px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title_main{
+    font-family:Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    color:#333333;
+}
+
+.title_secondary{
+    font-family: "Droid Serif italic";
+    font-style: italic;
+    font-size: 14px;
+    color: #3cb878;
+}
+.title_text{
+    font-size: 14px;
+    font-family: Poppins;
+    margin-top: 38px;
+    font-weight: 500;
+    color: #333333;
+}

@@ -1,0 +1,54 @@
+.wrapper{
+    width: 40px;
+    height: 140px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    top:2%;
+    left: 85%;
+}
+
+.addCard {
+    width: 40px;
+    height: 40px;
+    background-color: #3cb878;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.addCard:hover{
+    background-color: white;
+}
+
+.to_card:before{
+    font-family: FontAwesome;
+    content: "\f07a";
+    font-size: 18px;
+    color: white;
+}
+.to_card:hover:before{
+    color: #3cb878;
+}
+.to_favorites:before{
+    font-family: FontAwesome;
+    content: "\f004";
+    font-size: 18px;
+    color: white;
+}
+
+.to_favorites:hover:before{
+    color: #3cb878;
+}
+
+.to_update:before {
+    font-family: FontAwesome;
+    content: "\f079";
+    font-size: 18px;
+    color: white;
+}
+
+.to_update:hover:before{
+    color: #3cb878;
+}
