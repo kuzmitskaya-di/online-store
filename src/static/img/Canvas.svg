@@ -1,0 +1,320 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="4708" viewBox="0 0 1920 4708">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="bg" width="960" height="300" transform="translate(0 3949)" fill="#2e3348"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1920 1049">
+      <image width="1920" height="1049" xlink:href="Canvas-image6.jpg"/>
+    </pattern>
+    <filter id="path" x="-15" y="46" width="1950" height="130" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Canvas">
+      <rect width="1920" height="4708"/>
+    </clipPath>
+  </defs>
+  <g id="Canvas" clip-path="url(#clip-Canvas)">
+    <rect width="1920" height="4708" fill="rgba(0,0,0,0)"/>
+    <g id="Footer">
+      <g id="all_line_shape" data-name="all line shape">
+        <path id="Line" d="M.469,4308v-1H1920v1H.469" fill="#eee"/>
+        <path id="Line-2" data-name="Line" d="M.469,4248v-1H1920v1H.469" fill="#eee"/>
+        <path id="Line-3" data-name="Line" d="M1544.127,4249h1.156v58h-1.156v-58" fill="#eee"/>
+        <path id="Line-4" data-name="Line" d="M1204.127,4249h1.156v58h-1.156v-58" fill="#eee"/>
+      </g>
+      <g id="SOCIAL_CONNECTION" data-name="SOCIAL CONNECTION">
+        <g id="social_icon" data-name="social icon">
+          <text id="_" data-name="        " transform="translate(1237.93 4288.805)" fill="#333" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.9em"><tspan x="0" y="0" xml:space="preserve">        </tspan></text>
+        </g>
+        <g id="text">
+          <text id="We_re_confident_we_ve_provided_all_the_best_for_you._Stay_connect_with_us" data-name="We’re confident we’ve provided all the best for you. Stay connect with us" transform="translate(374.501 4284.942)" fill="#333" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.025em"><tspan x="0" y="0">We’re confident we’ve provided all the best for you. Stay connect with us</tspan></text>
+        </g>
+      </g>
+      <g id="mid_section" data-name="mid section">
+        <g id="contact">
+          <text id="CONTACT_INFO" data-name="CONTACT INFO" transform="translate(1234 4365.001)" fill="#333" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">CONTACT INFO</tspan></text>
+          <text id="_1234_Your_Address_Country._1_234_5678_9999_mail_domain.com" data-name="  1234 Your Address, Country.
+
+  +1 234 5678 9999
+
+  mail@domain.com" transform="translate(1232.569 4400.748)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.025em"><tspan x="0" y="15"></tspan><tspan y="15" xml:space="preserve" font-family="TimesNewRomanPSMT, Times New Roman">  </tspan><tspan y="15" font-family="Roboto-Regular, Roboto">1234 Your Address, Country.</tspan><tspan font-family="Roboto-Regular, Roboto"><tspan x="0" y="37"></tspan></tspan><tspan x="0" y="59"></tspan><tspan y="59" xml:space="preserve" font-family="TimesNewRomanPSMT, Times New Roman">  </tspan><tspan y="59" font-family="Roboto-Regular, Roboto">+1 234 5678 9999</tspan><tspan font-family="Roboto-Regular, Roboto"><tspan x="0" y="81"></tspan></tspan><tspan x="0" y="103"></tspan><tspan y="103" xml:space="preserve" font-family="TimesNewRomanPSMT, Times New Roman">  </tspan><tspan y="103" fill="#3cb878" font-family="Roboto-Regular, Roboto">mail@domain.com</tspan></text>
+        </g>
+        <g id="delivery_information" data-name="delivery information">
+          <text id="Delivery_Information_Discount_Sitemap_Privacy_Policy_My_Account" data-name="Delivery Information
+
+Discount
+
+Sitemap
+
+Privacy Policy
+
+My Account" transform="translate(373.156 4405.501)" fill="#333" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.025em"><tspan x="0" y="13">Delivery Information</tspan><tspan x="0" y="29"></tspan><tspan x="0" y="45">Discount</tspan><tspan x="0" y="61"></tspan><tspan x="0" y="77">Sitemap</tspan><tspan x="0" y="93"></tspan><tspan x="0" y="109">Privacy Policy</tspan><tspan x="0" y="125"></tspan><tspan x="0" y="141">My Account</tspan></text>
+          <text id="INFORMATION" transform="translate(373 4365.001)" fill="#333" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">INFORMATION</tspan></text>
+        </g>
+        <g id="my_account" data-name="my account">
+          <text id="MY_ACCOUNT-2" data-name="MY ACCOUNT" transform="translate(655 4366.001)" fill="#333" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">MY ACCOUNT</tspan></text>
+          <text id="Sign_In_View_Cart_My_Wishlist_Check_out_Track_My_Order" data-name="Sign In
+View Cart
+My Wishlist
+Check out
+Track My Order" transform="translate(656 4417.001)" fill="#333" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.025em"><tspan x="0" y="0">Sign In</tspan><tspan x="0" y="34">View Cart</tspan><tspan x="0" y="68">My Wishlist</tspan><tspan x="0" y="102">Check out</tspan><tspan x="0" y="136">Track My Order</tspan></text>
+        </g>
+        <g id="help">
+          <text id="HELP_" data-name="HELP
+
+" transform="translate(936 4366.229)" fill="#333" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">HELP</tspan><tspan x="0" y="17"></tspan><tspan font-family="Poppins-SemiBold"><tspan x="0" y="34"></tspan></tspan></text>
+          <text id="F.A.Q._Shipping_Contact_Us_Privacy_Policy" data-name="F.A.Q.
+Shipping
+Contact Us
+Privacy Policy" transform="translate(935.17 4417.223)" fill="#333" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.025em"><tspan x="0" y="0">F.A.Q.</tspan><tspan x="0" y="34">Shipping</tspan><tspan x="0" y="68">Contact Us</tspan><tspan x="0" y="102">Privacy Policy</tspan></text>
+        </g>
+      </g>
+      <g id="bottom_section" data-name="bottom section">
+        <rect id="Path-2" data-name="Path" width="1920" height="60" transform="translate(0 4648)"/>
+        <g id="copyright_text" data-name="copyright text">
+          <text id="Copyright_2017_RenoshopBee_all_right_reserved_-_Design_by_BeeStudios" data-name="Copyright 2017 RenoshopBee all right reserved  -  Design by BeeStudios" transform="translate(373.309 4682.46)" fill="#777" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.025em"><tspan x="0" y="0" xml:space="preserve">Copyright 2017 RenoshopBee all right reserved  -  Design by BeeStudios</tspan></text>
+        </g>
+        <g id="card">
+          <image id="card34" width="41" height="29" transform="translate(1502 4664)" xlink:href="Canvas-image.png"/>
+          <image id="maestro1" width="45" height="29" transform="translate(1441 4664)" xlink:href="Canvas-image2.png"/>
+          <image id="paypal11" width="45" height="29" transform="translate(1322 4664)" xlink:href="Canvas-image3.png"/>
+          <image id="visa5" width="45" height="29" transform="translate(1262 4664)" xlink:href="Canvas-image4.png"/>
+          <image id="amazon3" width="45" height="29" transform="translate(1381 4664)" xlink:href="Canvas-image5.png"/>
+        </g>
+      </g>
+    </g>
+    <g id="Subscribe">
+      <g id="bg-2" data-name="bg">
+        <rect id="bg-3" data-name="bg" width="960" height="300" transform="translate(-1067 3908)" fill="#2e3348"/>
+        <g id="Clip" transform="translate(-1074 -41)" clip-path="url(#clip-path)">
+          <rect id="slide5" width="1178" height="644" transform="translate(-66 3912)" opacity="0.102" fill="url(#pattern)"/>
+        </g>
+      </g>
+      <text id="Get_Out_Special_Discount" data-name="Get Out Special Discount" transform="translate(480.289 4035.836)" fill="#fff" font-size="30" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="-205.515" y="0">Get Out Special Discount</tspan></text>
+      <text id="Donec_eu_tristique_felis._Duis_augue_mi_auctor_ut_purus_et_dignissim_aliquet_quam._register_your_email_for_news_and_special_offers" data-name="Donec eu tristique felis. Duis augue mi, auctor ut purus et, dignissim aliquet quam. 
+register your email for news and special offers" transform="translate(181.553 4063)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.025em"><tspan x="29.224" y="13">Donec eu tristique felis. Duis augue mi, auctor ut purus et, dignissim aliquet quam. </tspan><tspan x="146.343" y="39">register your email for news and special offers</tspan></text>
+      <g id="from">
+        <g id="from-2" data-name="from">
+          <rect id="bg-4" data-name="bg" width="400" height="45" transform="translate(175 4140)" fill="#fff"/>
+          <text id="E-mail_address_..." data-name="E-mail address ..." transform="translate(199 4168)" fill="#9c9c9a" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.025em"><tspan x="0" y="0">E-mail address ...</tspan></text>
+        </g>
+        <g id="buton">
+          <rect id="bg-5" data-name="bg" width="200" height="45" transform="translate(585 4140)" fill="#3cb878"/>
+          <text id="GET_COUPON_NOW" data-name="GET COUPON NOW" transform="translate(685.35 4168)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.05em"><tspan x="-68.474" y="0">GET COUPON NOW</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Clients">
+      <rect id="bg_" data-name="bg " width="960" height="300" transform="translate(960 3949)" fill="#f5f6f9"/>
+      <image id="brand-logo-4a" width="132" height="132" transform="translate(1022 4034)" xlink:href="Canvas-image7.png"/>
+      <image id="brand-logo-1a" width="132" height="132" transform="translate(1254 4034)" xlink:href="Canvas-image8.png"/>
+      <image id="brand-logo-2a" width="132" height="132" transform="translate(1487 4034)" xlink:href="Canvas-image9.png"/>
+      <image id="brand-logo-3a" width="132" height="132" transform="translate(1719 4034)" xlink:href="Canvas-image10.png"/>
+    </g>
+    <g id="Products_List" data-name="Products List">
+      <g id="title_" data-name="title ">
+        <text id="FEATURED_PRODUCTS" data-name="FEATURED PRODUCTS" transform="translate(960 2634.859)" fill="#333" font-size="30" font-family="Poppins-Regular, Poppins"><tspan x="-153.855" y="0">FEATURED PRODUCTS</tspan></text>
+        <text id="Newest_trends_from_top_brands" data-name="Newest trends from top brands" transform="translate(959 2659.859)" fill="#3cb878" font-size="14" font-family="DroidSerif-Italic, Droid Serif" font-style="italic"><tspan x="-100.919" y="0">Newest trends from top brands</tspan></text>
+      </g>
+      <g id="products">
+        <g id="_01" data-name="01">
+          <rect id="bg-6" data-name="bg" width="332" height="450" transform="translate(68 2724)" fill="#121212"/>
+          <text id="_300X450" data-name="300X450" transform="translate(195 2956)" fill="#292929" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.05em"><tspan x="0" y="0">300X450</tspan></text>
+          <text id="Cruise_Dual_Analog" data-name="Cruise Dual Analog" transform="translate(69 3208)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Cruise Dual Analog</tspan></text>
+          <text id="_250.00" data-name="$250.00" transform="translate(69 3236)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_2" data-name="    " transform="translate(69 3269)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_02" data-name="02">
+          <rect id="bg-7" data-name="bg" width="332" height="450" transform="translate(430 2724)" fill="#121212"/>
+          <text id="Crown_Summit_Backpack" data-name="Crown Summit Backpack" transform="translate(431 3208)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Crown Summit Backpack</tspan></text>
+          <text id="_250.00-2" data-name="$250.00" transform="translate(431 3236)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_3" data-name="    " transform="translate(431 3269)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_03" data-name="03">
+          <rect id="bg-8" data-name="bg" width="332" height="450" transform="translate(793 2724)" fill="#121212"/>
+          <text id="Joust_Duffle_Bag" data-name="Joust Duffle Bag" transform="translate(794 3208)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Joust Duffle Bag</tspan></text>
+          <text id="_250.00-3" data-name="$250.00" transform="translate(794 3236)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_4" data-name="    " transform="translate(794 3269)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_04" data-name="04">
+          <rect id="bg-9" data-name="bg" width="332" height="450" transform="translate(1155 2724)" fill="#121212"/>
+          <text id="Voyage_Yoga_Bag" data-name="Voyage Yoga Bag" transform="translate(1156 3208)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Voyage Yoga Bag</tspan></text>
+          <text id="_250.00-4" data-name="$250.00" transform="translate(1156 3236)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_5" data-name="    " transform="translate(1156 3269)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_05" data-name="05">
+          <rect id="bg-10" data-name="bg" width="332" height="450" transform="translate(1518 2724)" fill="#121212"/>
+          <text id="Compete_Track_Tote" data-name="Compete Track Tote" transform="translate(1519 3208)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Compete Track Tote</tspan></text>
+          <text id="_250.00-5" data-name="$250.00" transform="translate(1519 3236)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_6" data-name="    " transform="translate(1519 3269)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_06" data-name="06">
+          <rect id="bg-11" data-name="bg" width="332" height="450" transform="translate(68 3324)" fill="#121212"/>
+          <text id="Sprite_Yoga_Companion_Kit" data-name="Sprite Yoga Companion Kit" transform="translate(69 3808)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Sprite Yoga Companion Kit</tspan></text>
+          <text id="_250.00-6" data-name="$250.00" transform="translate(69 3836)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_7" data-name="    " transform="translate(69 3869)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_07" data-name="07">
+          <rect id="bg-12" data-name="bg" width="332" height="450" transform="translate(430 3324)" fill="#121212"/>
+          <text id="Strive_Shoulder_Pack" data-name="Strive Shoulder Pack" transform="translate(431 3808)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Strive Shoulder Pack</tspan></text>
+          <text id="_250.00-7" data-name="$250.00" transform="translate(431 3836)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_8" data-name="    " transform="translate(431 3869)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_08" data-name="08">
+          <rect id="bg-13" data-name="bg" width="332" height="450" transform="translate(793 3324)" fill="#121212"/>
+          <text id="Impulse_Duffle" data-name="Impulse Duffle" transform="translate(794 3808)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Impulse Duffle</tspan></text>
+          <text id="_250.00-8" data-name="$250.00" transform="translate(794 3836)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_9" data-name="    " transform="translate(794 3869)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_09" data-name="09">
+          <rect id="bg-14" data-name="bg" width="332" height="450" transform="translate(1155 3324)" fill="#121212"/>
+          <text id="Fusion_Backpack_" data-name="Fusion Backpack	" transform="translate(1156 3808)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Fusion Backpack	</tspan></text>
+          <text id="_250.00-9" data-name="$250.00" transform="translate(1156 3836)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_10" data-name="    " transform="translate(1156 3869)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_10-2" data-name="10">
+          <rect id="bg-15" data-name="bg" width="332" height="450" transform="translate(1518 3324)" fill="#121212"/>
+          <text id="Endeavor_Daytrip" data-name="Endeavor Daytrip" transform="translate(1519 3808)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Endeavor Daytrip</tspan></text>
+          <text id="_250.00-10" data-name="$250.00" transform="translate(1519 3836)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_11" data-name="    " transform="translate(1519 3869)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Categories">
+      <g id="Summer_Autumn" data-name="Summer &amp; Autumn">
+        <rect id="bg-16" data-name="bg" width="640" height="640" transform="translate(0 1874)" fill="#2e3348"/>
+        <text id="_640X640" data-name="640X640" transform="translate(281 1940)" fill="#434965" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.05em"><tspan x="0" y="0">640X640</tspan></text>
+        <image id="Summer_Autumn-2" data-name="Summer &amp; Autumn" width="428" height="427" transform="translate(106 1981)" xlink:href="Canvas-image11.png"/>
+      </g>
+      <g id="Fashion_for_ment" data-name="Fashion for ment">
+        <rect id="bg-17" data-name="bg" width="640" height="640" transform="translate(640 1874)" fill="#34394f"/>
+      </g>
+      <g id="New_Fashions_Styles" data-name="New Fashions Styles">
+        <rect id="bg-18" data-name="bg" width="640" height="640" transform="translate(1280 1874)" fill="#2e3348"/>
+        <image id="New_Fashion_Styles" data-name="New Fashion Styles" width="428" height="427" transform="translate(1386 1981)" xlink:href="Canvas-image12.png"/>
+      </g>
+    </g>
+    <g id="Static-blocks">
+      <g id="Special_offers" data-name="Special offers">
+        <rect id="bg-19" data-name="bg" width="480" height="200" transform="translate(0 1674)" fill="#f5f6f9"/>
+        <text id="SPECIAL_OFFERS-2" data-name="SPECIAL OFFERS" transform="translate(240.026 1798.961)" fill="#232323" font-size="17.973" font-family="Poppins-Regular, Poppins" letter-spacing="0.05em"><tspan x="-73.887" y="0">SPECIAL OFFERS</tspan></text>
+        <text id="Shop_Big_Save_Big" data-name="Shop Big Save Big" transform="translate(239.739 1818.999)" fill="#888" font-size="13.005" font-family="DroidSerif, Droid Serif" letter-spacing="0.025em"><tspan x="-57.182" y="0">Shop Big Save Big</tspan></text>
+        <path id="diamond" d="M232.682,1737.447h12.63L239.471,1759Zm14.883,0h11.392L240.5,1758.955Zm-28.449,0H230.6l7.688,21.507Zm28.815-1.406,5.534-8.553,5.534,8.553Zm-14.508,0,5.534-8.553,5.534,8.553Zm-14.424,0,5.534-8.553,5.533,8.553ZM240.66,1727h11.068l-5.534,8.845Zm-14.388,0h11.067l-5.533,8.845Z" fill="#464646"/>
+      </g>
+      <g id="Free_delivery" data-name="Free delivery">
+        <rect id="bg_2" data-name="bg " width="480" height="200" transform="translate(481 1674)" fill="#f5f6f9"/>
+        <text id="FREE_DELIVERY-2" data-name="FREE DELIVERY" transform="translate(721.148 1798.961)" fill="#232323" font-size="17.973" font-family="Poppins-Regular, Poppins" letter-spacing="0.05em"><tspan x="-65.457" y="0">FREE DELIVERY</tspan></text>
+        <text id="On_Orders_Above_99" data-name="On Orders Above $99" transform="translate(720.873 1818.999)" fill="#888" font-size="13.979" font-family="DroidSerif, Droid Serif" letter-spacing="0.025em"><tspan x="-74.009" y="0">On Orders Above $99</tspan></text>
+        <path id="plane_2" data-name="plane 2" d="M719.021,1750.647l4.253,1.277L719.021,1758Zm.408-2.1,11.529-14.219-14.877,13.2L704,1743.709,739,1726l-6.652,26.72Z" fill="#464646"/>
+      </g>
+      <g id="_30_Days_Return" data-name="30 Days Return">
+        <rect id="bg-20" data-name="bg" width="480" height="200" transform="translate(962 1674)" fill="#f5f6f9"/>
+        <text id="_30_DAYS_RETURN-2" data-name="30 DAYS RETURN" transform="translate(1202.271 1798.961)" fill="#232323" font-size="17.973" font-family="Poppins-Regular, Poppins" letter-spacing="0.05em"><tspan x="-77.293" y="0">30 DAYS RETURN</tspan></text>
+        <text id="Policy_We_Offers" data-name="Policy We Offers" transform="translate(1201.997 1818.999)" fill="#888" font-size="13.979" font-family="DroidSerif, Droid Serif" letter-spacing="0.025em"><tspan x="-57.472" y="0">Policy We Offers</tspan></text>
+        <path id="share" d="M1182.927,1755v-16.352H1177l9.049-9.475,8.861,9.475h-5.9v10.959h14.259l5.891,5.393Zm24.163-9.562h5.9v-10.959h-14.259l-5.985-5.479h26.323v16.438H1225l-9.049,9.473Z" fill="#464646"/>
+      </g>
+      <g id="Fastest_Shipping" data-name="Fastest Shipping">
+        <rect id="bg_3" data-name="bg " width="480" height="200" transform="translate(1443 1674)" fill="#f5f6f9"/>
+        <text id="FASTEST_SHIPPING-2" data-name="FASTEST SHIPPING" transform="translate(1683.395 1798.961)" fill="#232323" font-size="17.973" font-family="Poppins-Regular, Poppins" letter-spacing="0.05em"><tspan x="-84.239" y="0">FASTEST SHIPPING</tspan></text>
+        <text id="_2_Days_Express" data-name="2 Days Express" transform="translate(1684.12 1818.999)" fill="#888" font-size="13.979" font-family="DroidSerif, Droid Serif" letter-spacing="0.025em"><tspan x="-51.816" y="0">2 Days Express</tspan></text>
+        <path id="rocket" d="M1693.778,1759.167s.444-2.3-2.3-5.12a43.262,43.262,0,0,0,3.037-12.352s5.481,1.088,5.481,5.759A14.082,14.082,0,0,1,1693.778,1759.167Zm-15.111-2.808s-3.671-10.179-3.671-14.4a20.83,20.83,0,0,1,.633-5.124h16.728a20.7,20.7,0,0,1,.638,5.126c0,4.16-3.66,14.4-3.66,14.4Zm5.321-17.2a2.976,2.976,0,1,0,3.407,2.944A3.2,3.2,0,0,0,1683.988,1739.158Zm-.734-13.149V1722h1.327v3.906a18.3,18.3,0,0,1,7.474,9.829h-16.128A18.124,18.124,0,0,1,1683.254,1726.009Zm-9.032,33.159a14.082,14.082,0,0,1-6.222-11.712c0-4.672,5.481-5.759,5.481-5.759a43.267,43.267,0,0,0,3.037,12.352C1673.777,1756.864,1674.222,1759.167,1674.222,1759.167Zm12.021.591-1.111-.96-1.185,3.2-1.407-3.2-.963,1.664-1.407-3.008h7.63Z" fill="#464646"/>
+      </g>
+    </g>
+    <g id="best_seller" data-name="best seller">
+      <g id="title">
+        <rect id="bg-21" data-name="bg" width="332" height="450" transform="translate(69 1092)" fill="#fff"/>
+        <g id="content">
+          <text id="BEST_SELLERS" data-name="BEST SELLERS" transform="translate(67 1252.859)" fill="#333" font-size="30" font-family="Poppins-Regular, Poppins" letter-spacing="0.05em"><tspan x="0" y="0">BEST SELLERS</tspan></text>
+          <text id="The_best_productions_from_us" data-name="The best productions from us" transform="translate(67 1277.859)" fill="#3cb878" font-size="14" font-family="DroidSerif-Italic, Droid Serif" font-style="italic" letter-spacing="0.025em"><tspan x="0" y="0">The best productions from us</tspan></text>
+          <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipisicing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua." data-name="Lorem ipsum dolor sit amet, consectetur
+adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna
+aliqua." transform="translate(67 1325.859)" fill="#333" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.025em"><tspan x="0" y="0">Lorem ipsum dolor sit amet, consectetur</tspan><tspan x="0" y="24">adipisicing elit, sed do eiusmod tempor</tspan><tspan x="0" y="48">incididunt ut labore et dolore magna</tspan><tspan x="0" y="72">aliqua.</tspan></text>
+        </g>
+      </g>
+      <g id="products-2" data-name="products">
+        <g id="_01-2" data-name="01">
+          <rect id="bg-22" data-name="bg" width="332" height="450" transform="translate(430 1060)" fill="#121212"/>
+          <text id="_300X450-2" data-name="300X450" transform="translate(557 1292)" fill="#292929" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.05em"><tspan x="0" y="0">300X450</tspan></text>
+          <text id="Cruise_Dual_Analog-2" data-name="Cruise Dual Analog" transform="translate(431 1544)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Cruise Dual Analog</tspan></text>
+          <text id="_250.00-11" data-name="$250.00" transform="translate(431 1572)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_12" data-name="    " transform="translate(431 1604)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+          <g id="hover">
+            <g id="Add_to_cart" data-name="Add to cart">
+              <rect id="bg-23" data-name="bg" width="40" height="40" transform="translate(712 1070)" fill="#3cb878" opacity="0.8"/>
+              <text id="_13" data-name="" transform="translate(723 1096)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="0" y="0"></tspan></text>
+            </g>
+            <g id="Add_to_cart_copy" data-name="Add to cart copy">
+              <rect id="bg-24" data-name="bg" width="40" height="40" transform="translate(712 1120)" fill="#3cb878" opacity="0.8"/>
+              <text id="_14" data-name="" transform="translate(723 1147)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="0" y="0"></tspan></text>
+            </g>
+            <g id="Add_to_cart_copy_2" data-name="Add to cart copy 2">
+              <rect id="bg-25" data-name="bg" width="40" height="40" transform="translate(712 1170)" fill="#3cb878" opacity="0.8"/>
+              <text id="_15" data-name="" transform="translate(723 1197)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="0" y="0"></tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="_02-2" data-name="02">
+          <rect id="bg-26" data-name="bg" width="332" height="450" transform="translate(792 1060)" fill="#121212"/>
+          <text id="Crown_Summit_Backpack-2" data-name="Crown Summit Backpack" transform="translate(793 1544)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Crown Summit Backpack</tspan></text>
+          <text id="_250.00-12" data-name="$250.00" transform="translate(793 1572)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_16" data-name="    " transform="translate(793 1605)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_03-2" data-name="03">
+          <rect id="bg-27" data-name="bg" width="332" height="450" transform="translate(1155 1060)" fill="#121212"/>
+          <text id="Joust_Duffle_Bag-2" data-name="Joust Duffle Bag" transform="translate(1156 1544)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Joust Duffle Bag</tspan></text>
+          <text id="_250.00-13" data-name="$250.00" transform="translate(1156 1572)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_17" data-name="    " transform="translate(1156 1605)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+        <g id="_04-2" data-name="04">
+          <rect id="bg-28" data-name="bg" width="332" height="450" transform="translate(1517 1060)" fill="#121212"/>
+          <text id="Voyage_Yoga_Bag-2" data-name="Voyage Yoga Bag" transform="translate(1518 1544)" fill="#333" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.05em"><tspan x="0" y="0">Voyage Yoga Bag</tspan></text>
+          <text id="_250.00-14" data-name="$250.00" transform="translate(1518 1572)" fill="#3cb878" font-size="18" font-family="DroidSerif, Droid Serif" letter-spacing="0.05em"><tspan x="0" y="0">$250.00</tspan></text>
+          <text id="_18" data-name="    " transform="translate(1518 1605)" fill="#ff9600" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">    </tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="slider">
+      <g id="bg_photo" data-name="bg photo" transform="translate(-187 7)">
+        <rect id="bg-29" data-name="bg" width="1920" height="800" transform="translate(0 160)" fill="#121212"/>
+        <text id="_1920X800" data-name="1920X800" transform="translate(916 802)" fill="#292929" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.05em"><tspan x="0" y="0">1920X800</tspan></text>
+      </g>
+      <g id="content-2" data-name="content">
+        <text id="THE_BEST_WOOCOMMERCE" data-name="THE BEST
+WOOCOMMERCE" transform="translate(389 479)" fill="#333" font-size="60" font-family="Poppins-Regular, Poppins" letter-spacing="0.05em"><tspan x="0" y="0">THE BEST</tspan><tspan fill="#3cb878"><tspan x="0" y="72">WOOCOMMERCE</tspan></tspan></text>
+        <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipisicing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua.-2" data-name="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua." transform="translate(388 591)" fill="#333" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.025em"><tspan x="0" y="0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</tspan><tspan x="0" y="24">eiusmod tempor incididunt ut labore et dolore magna aliqua.</tspan></text>
+      </g>
+      <g id="buton-2" data-name="buton">
+        <image id="Buton-3" data-name="Buton" width="119" height="37" transform="translate(389 647)" xlink:href="Canvas-image13.png"/>
+        <text id="BUY_NOW" data-name="BUY NOW" transform="translate(413 671)" fill="#333" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">BUY NOW</tspan></text>
+      </g>
+    </g>
+    <g id="menu">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#path)">
+        <rect id="path-3" data-name="path" width="1920" height="100" transform="translate(0 60)" fill="#fff"/>
+      </g>
+      <text id="HOME_WOMEN_MEN_KIDS_JEWELLERY_ACCESSORIES" data-name="HOME          WOMEN          MEN          KIDS          JEWELLERY          ACCESSORIES" transform="translate(960.2 116)" fill="#3cb878" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.025em"><tspan x="-306.48" y="0">HOME</tspan><tspan y="0" xml:space="preserve" fill="#febc48">          </tspan><tspan y="0" fill="#3f4853">WOMEN</tspan><tspan y="0" xml:space="preserve" fill="#febc48">          </tspan><tspan y="0" fill="#3f4853">MEN</tspan><tspan y="0" xml:space="preserve" fill="#febc48">          </tspan><tspan y="0" fill="#3f4853">KIDS</tspan><tspan y="0" xml:space="preserve" fill="#febc48">          </tspan><tspan y="0" fill="#3f4853">JEWELLERY</tspan><tspan y="0" xml:space="preserve" fill="#febc48">          </tspan><tspan y="0" fill="#3f4853">ACCESSORIES</tspan></text>
+      <text id="RENOSHOPBEE" transform="translate(68 116)" fill="#3cb878" font-size="24" font-family="Poppins-Regular, Poppins" letter-spacing="0.004em"><tspan x="0" y="0">RENOSHOP</tspan><tspan y="0" font-family="Poppins-Light, Poppins" font-weight="300" fill="#000">BEE</tspan></text>
+      <g id="right">
+        <g id="cart">
+          <text id="_19" data-name="" transform="translate(1759.064 116)" fill="#333" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="-10.328" y="0"></tspan></text>
+          <circle id="Ellipse_2" data-name="Ellipse 2" cx="10" cy="10" r="10" transform="translate(1752 90)" fill="#3cb878"/>
+          <text id="_3-2" data-name="3" transform="translate(1766.056 106)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.004em"><tspan x="-8.316" y="0">3</tspan></text>
+        </g>
+        <text id="_20" data-name="" transform="translate(1849.064 116)" fill="#333" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="-10.328" y="0"></tspan></text>
+        <text id="_21" data-name="" transform="translate(1805.064 116)" fill="#333" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="-10.328" y="0"></tspan></text>
+      </g>
+      <g id="top_menu" data-name="top menu">
+        <rect id="path-4" data-name="path" width="1920" height="60"/>
+        <text id="_22" data-name="    " transform="translate(1862.53 35.805)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.9em"><tspan x="-161.325" y="0">    </tspan></text>
+        <text id="_1_123_456_789_info_company.com" data-name="     +1 123 456 789                        info@company.com" transform="translate(67.93 35.805)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.025em"><tspan x="0" y="0"></tspan><tspan y="0" xml:space="preserve" font-family="Roboto-Regular, Roboto">   </tspan><tspan y="0" xml:space="preserve" font-size="18" font-family="Roboto-Regular, Roboto">  </tspan><tspan y="0" xml:space="preserve" font-size="14" font-family="Roboto-Regular, Roboto">+1 123 456 789                   </tspan><tspan y="0"></tspan><tspan y="0" xml:space="preserve" font-size="18" font-family="Roboto-Regular, Roboto">     </tspan><tspan y="0" font-size="14" font-family="Roboto-Regular, Roboto">info@company.com</tspan></text>
+        <rect id="line-5" data-name="line" width="1" height="15" transform="translate(235 23)" fill="#464646"/>
+      </g>
+    </g>
+  </g>
+</svg>

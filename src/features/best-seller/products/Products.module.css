@@ -1,0 +1,68 @@
+.wrapper {
+    width: 332px;
+    height: 548px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.img_product{
+    height: 450px;
+    background-color: #121212;
+    color:#292929;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-family: Roboto;
+    position: relative;
+    cursor: pointer;
+}
+
+.hover_vary{
+    display: none;
+}
+
+.img_product:hover .hover{
+    display: block;
+}
+
+.price{
+    display: flex;
+    flex-direction: column;
+}
+.price .name_product:hover{
+    color: #3cb878;
+}
+
+.name_product{
+    font-family: Poppins;
+    font-size: 14px;
+    cursor: pointer;
+    color: #333333;
+    font-weight: 700;
+
+}
+
+.price_product{
+    font-family: "Droid Serif";
+    font-size: 18px;
+    color: #3cb878;
+    margin-top: 4px;
+}
+
+.star:before {
+    font-family: FontAwesome;
+    content: "\f005";
+    color:#ff9600;
+}
+
+.mark {
+    display: flex;
+}
+
+.star_null:before{
+    font-family: FontAwesome;
+    content: "\f006";
+    color:#ff9600;
+}

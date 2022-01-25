@@ -1,0 +1,43 @@
+.wrapper {
+    width: 1920px;
+    height: 200px;
+    background-color: #f5f6f9;
+    display: flex;
+}
+
+.static_elem{
+    width: 480px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.img_diamond {
+    width: 40px;
+    height: 32px;
+    margin-bottom: 24px;
+}
+
+.img_plane{
+    width: 35px;
+    height: 32px;
+    margin-bottom: 24px;
+}
+
+.img_share{
+    width: 48px;
+    height: 26px;
+    margin-bottom: 24px;
+}
+
+.img_rocket{
+    width: 32px;
+    height: 40px;
+    margin-bottom: 24px;
+}
+
+
+

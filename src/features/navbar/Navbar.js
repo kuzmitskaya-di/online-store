@@ -1,30 +1,48 @@
 import React from 'react';
 import s from './Navbar.module.css';
 
+
 const Navbar = () => {
+    const {
+        navbar,
+        logo,
+        navbar_logo,
+        navbar_logo_green,
+        menu,
+        menu_link,
+        menu_link_green,
+        navigation_button,
+        shopping_card_button,
+        quantity,
+        nav_but,
+        basket,
+        circle,
+        search,
+        burger_menu
+    } = s;
     return (
-        <nav className={s.navbar}>
-            <div className={s.logo}>
-                <span className={s.navbar_logo}><span className={s.navbar_logo_green}>RENOSHOP</span>BEE</span>
-            </div>
-            <div className={s.menu}>
-                <a href="#" className={`${s.menu_link} ${s.menu_link_green}`}>HOME</a>
-                <a href="#" className={s.menu_link}>WOMEN</a>
-                <a href="#" className={s.menu_link}>MEN</a>
-                <a href="#" className={s.menu_link}>KIDS</a>
-                <a href="#" className={s.menu_link}>JEWELLERY</a>
-                <a href="#" className={s.menu_link}>ACCESSORIES</a>
-            </div>
-            <div className={s.navigation_button}>
-                <div className={s.shopping_card_button}>
-                    <div className={s.quantity}>
-                    <button href="#" className={`${s.nav_but} ${s.basket}`}></button>
-                        <div className={s.circle}>3</div>
+        <nav className={navbar}>
+            <section className={logo}>
+                <span className={navbar_logo}><span className={navbar_logo_green}>RENOSHOP</span>BEE</span>
+            </section>
+            <menu className={menu}>
+                <a href="#" className={`${menu_link} ${menu_link_green}`}>HOME</a>
+                <a href="#" className={menu_link}>WOMEN</a>
+                <a href="#" className={menu_link}>MEN</a>
+                <a href="#" className={menu_link}>KIDS</a>
+                <a href="#" className={menu_link}>JEWELLERY</a>
+                <a href="#" className={menu_link}>ACCESSORIES</a>
+            </menu>
+            <main className={navigation_button}>
+                <section className={shopping_card_button}>
+                    <div className={quantity}>
+                        <button className={`${nav_but} ${basket}`}/>
+                        <div className={circle}>3</div>
                     </div>
-                </div>
-                <button href="#" className={`${s.nav_but} ${s.search}`}></button>
-                <button href="#" className={`${s.nav_but} ${s.burger_menu}`}></button>
-            </div>
+                </section>
+                <button className={`${nav_but} ${search}`}/>
+                <button className={`${nav_but} ${burger_menu}`}/>
+            </main>
         </nav>
     );
 }
